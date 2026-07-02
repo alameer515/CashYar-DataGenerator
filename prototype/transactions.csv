@@ -1,0 +1,502 @@
+transaction_id,user_id,datetime,category,merchant,amount,payment_method,planned_purchase,online_purchase,purchase_location,season,event,day_of_week,hour,remaining_budget,monthly_spending,monthly_saving,goal_progress,financial_score,financial_risk,recommended_action
+24,3,2026-01-02 15:32:00,Coffee,Tim Hortons,31.62,Cash,False,True,Online,Winter,,Friday,15,-7774.17,8567.9,0.0,0.0,60,Medium,Reduce Restaurant Spending
+120,3,2026-01-06 23:12:00,Shopping,Jarir Marketplace,391.76,Apple Pay,True,False,Supermarket,Winter,,Tuesday,23,-43786.07,44579.8,0.0,0.0,60,Medium,Reduce Restaurant Spending
+33,3,2026-01-11 14:37:00,Shopping,Amazon,285.75,Cash,False,True,Online,Winter,,Sunday,14,-11907.72,12701.45,0.0,0.0,60,Medium,Reduce Restaurant Spending
+99,3,2026-01-15 19:21:00,Beauty,Nice One,301.03,Debit Card,False,True,Online,Winter,,Thursday,19,-36763.2,37556.93,0.0,0.0,60,Medium,Reduce Restaurant Spending
+118,3,2026-01-15 22:54:00,Shopping,Jarir Marketplace,283.24,Debit Card,False,False,Restaurant,Winter,,Thursday,22,-41837.31,42631.04,0.0,0.0,60,Medium,Reduce Restaurant Spending
+67,3,2026-01-20 22:14:00,Shopping,Jarir Marketplace,171.92,Credit Card,False,True,Online,Winter,,Tuesday,22,-24335.49,25129.22,0.0,0.0,60,Medium,Reduce Restaurant Spending
+63,3,2026-01-21 18:13:00,Restaurants,Burger King,31.71,Cash,False,True,Online,Winter,,Wednesday,18,-23441.16,24234.89,0.0,0.0,60,Medium,Reduce Restaurant Spending
+74,3,2026-01-23 20:00:00,Clothing,Namshi,432.14,Debit Card,True,True,Online,Winter,,Friday,20,-26246.18,27039.91,0.0,0.0,60,Medium,Reduce Restaurant Spending
+14,3,2026-01-29 14:52:00,Shopping,Centrepoint,104.07,Apple Pay,False,True,Online,Winter,,Thursday,14,-2088.55,2882.28,0.0,0.0,60,Medium,Reduce Restaurant Spending
+43,3,2026-01-31 12:24:00,Shopping,Jarir Marketplace,268.16,Credit Card,True,True,Online,Winter,,Saturday,12,-14118.85,14912.58,0.0,0.0,60,Medium,Reduce Restaurant Spending
+113,3,2026-02-05 23:41:00,Shopping,Jarir Marketplace,205.11,Apple Pay,True,True,Online,Winter,,Thursday,23,-40571.76,41365.49,0.0,0.0,60,Medium,Reduce Restaurant Spending
+53,3,2026-02-07 13:32:00,Shopping,Centrepoint,197.8,Cash,False,False,Campus,Winter,,Saturday,13,-16323.12,17116.85,0.0,0.0,60,Medium,Reduce Restaurant Spending
+8,3,2026-02-10 16:53:00,Beauty,Nice One,181.44,STC Pay,False,True,Online,Winter,,Tuesday,16,-1208.83,2002.56,0.0,0.0,60,Medium,Reduce Restaurant Spending
+48,3,2026-02-11 12:04:00,Beauty,Sephora,305.55,Apple Pay,False,True,Online,Winter,,Wednesday,12,-15596.0,16389.73,0.0,0.0,60,Medium,Reduce Restaurant Spending
+37,3,2026-02-19 20:22:00,Clothing,H&M,368.19,Cash,False,True,Online,Winter,Ramadan,Thursday,20,-12628.05,13421.78,0.0,0.0,60,Medium,Reduce Restaurant Spending
+41,3,2026-02-20 08:41:00,Groceries,Panda,80.4,Cash,True,True,Online,Winter,Ramadan,Friday,8,-13672.73,14466.46,0.0,0.0,60,Medium,Reduce Restaurant Spending
+6,3,2026-02-22 09:24:00,Shopping,Centrepoint,193.53,STC Pay,False,True,Online,Winter,Ramadan,Sunday,9,-844.21,1637.94,0.0,0.0,60,Medium,Reduce Restaurant Spending
+2,3,2026-02-22 09:37:00,Clothing,Zara,264.52,Cash,True,True,Online,Winter,Ramadan,Sunday,9,126.48,667.25,332.75,0.074,92,Low,Maintain Current Habits
+87,3,2026-02-24 20:14:00,Shopping,Jarir Marketplace,398.07,Cash,True,True,Online,Winter,Ramadan,Tuesday,20,-30077.3,30871.03,0.0,0.0,60,Medium,Reduce Restaurant Spending
+114,3,2026-02-24 20:23:00,Beauty,Nice One,324.19,Debit Card,False,False,Gas Station,Winter,Ramadan,Tuesday,20,-40895.95,41689.68,0.0,0.0,60,Medium,Reduce Restaurant Spending
+1,3,2026-02-27 07:47:00,Shopping,Noon,402.73,Debit Card,False,True,Online,Winter,Ramadan,Friday,7,391.0,402.73,597.27,0.133,100,Low,Maintain Current Habits
+71,3,2026-03-01 15:11:00,Beauty,Nice One,103.28,Cash,False,False,Mall,Spring,Ramadan,Sunday,15,-25190.96,25984.69,0.0,0.0,60,Medium,Reduce Restaurant Spending
+112,3,2026-03-03 08:22:00,Clothing,Namshi,201.35,Credit Card,False,True,Online,Spring,Ramadan,Tuesday,8,-40366.65,41160.38,0.0,0.0,60,Medium,Reduce Restaurant Spending
+49,3,2026-03-03 14:37:00,Beauty,Sephora,192.33,Apple Pay,False,True,Online,Spring,Ramadan,Tuesday,14,-15788.33,16582.06,0.0,0.0,60,Medium,Reduce Restaurant Spending
+36,3,2026-03-09 22:15:00,Coffee,Half Million,26.4,Debit Card,False,False,Mall,Spring,Ramadan,Monday,22,-12259.86,13053.59,0.0,0.0,60,Medium,Reduce Restaurant Spending
+56,3,2026-03-10 15:07:00,Electronics,Extra,2950.53,Credit Card,True,False,Restaurant,Spring,Ramadan,Tuesday,15,-19763.53,20557.26,0.0,0.0,60,Medium,Reduce Restaurant Spending
+19,3,2026-03-12 23:31:00,Shopping,Amazon,352.02,Cash,True,False,Campus,Spring,Ramadan,Thursday,23,-7173.24,7966.97,0.0,0.0,60,Medium,Reduce Restaurant Spending
+94,3,2026-03-19 14:24:00,Beauty,Sephora,250.83,Cash,False,True,Online,Spring,Eid,Thursday,14,-32470.27,33264.0,0.0,0.0,60,Medium,Reduce Restaurant Spending
+60,3,2026-03-24 21:35:00,Beauty,Sephora,346.02,Cash,True,False,Mall,Spring,Eid,Tuesday,21,-22970.62,23764.35,0.0,0.0,60,Medium,Reduce Restaurant Spending
+11,3,2026-03-25 18:22:00,Shopping,Centrepoint,227.38,Cash,False,True,Online,Spring,Eid,Wednesday,18,-1668.64,2462.37,0.0,0.0,60,Medium,Reduce Restaurant Spending
+65,3,2026-04-01 20:01:00,Shopping,Centrepoint,376.79,Apple Pay,False,True,Online,Spring,,Wednesday,20,-23920.56,24714.29,0.0,0.0,60,Medium,Reduce Restaurant Spending
+115,3,2026-04-01 23:41:00,Shopping,Jarir Marketplace,360.14,Apple Pay,True,True,Online,Spring,,Wednesday,23,-41256.09,42049.82,0.0,0.0,60,Medium,Reduce Restaurant Spending
+102,3,2026-04-04 08:16:00,Clothing,Zara,466.96,Apple Pay,False,True,Online,Spring,,Saturday,8,-38131.04,38924.77,0.0,0.0,60,Medium,Reduce Restaurant Spending
+40,3,2026-04-04 15:29:00,Shopping,Amazon,339.17,Apple Pay,False,False,Supermarket,Spring,,Saturday,15,-13592.33,14386.06,0.0,0.0,60,Medium,Reduce Restaurant Spending
+9,3,2026-04-09 09:02:00,Beauty,Nice One,165.12,Cash,False,True,Online,Spring,,Thursday,9,-1373.95,2167.68,0.0,0.0,60,Medium,Reduce Restaurant Spending
+86,3,2026-04-10 19:31:00,Clothing,Zara,306.38,Cash,False,True,Online,Spring,,Friday,19,-29679.23,30472.96,0.0,0.0,60,Medium,Reduce Restaurant Spending
+106,3,2026-04-13 07:39:00,Shopping,Noon,85.78,Apple Pay,False,True,Online,Spring,,Monday,7,-39649.44,40443.17,0.0,0.0,60,Medium,Reduce Restaurant Spending
+96,3,2026-04-16 20:24:00,Electronics,Jarir,2955.81,STC Pay,True,True,Online,Spring,,Thursday,20,-36115.33,36909.06,0.0,0.0,60,Medium,Reduce Restaurant Spending
+3,3,2026-04-22 14:32:00,Beauty,Sephora,212.09,STC Pay,True,False,Gas Station,Spring,Midterms,Wednesday,14,-85.61,879.34,120.66,0.027,85,Low,Increase Monthly Savings
+4,3,2026-04-23 21:37:00,Clothing,Zara,346.04,Debit Card,False,True,Online,Spring,Midterms,Thursday,21,-431.65,1225.38,0.0,0.0,60,Medium,Reduce Restaurant Spending
+105,3,2026-04-25 09:49:00,Groceries,Panda,180.4,Cash,False,False,Campus,Spring,Midterms,Saturday,9,-39563.66,40357.39,0.0,0.0,60,Medium,Reduce Restaurant Spending
+84,3,2026-04-26 13:09:00,Shopping,Noon,243.58,Apple Pay,False,True,Online,Spring,Midterms,Sunday,13,-29214.79,30008.52,0.0,0.0,60,Medium,Reduce Restaurant Spending
+34,3,2026-04-28 09:57:00,Shopping,Centrepoint,188.69,Cash,False,True,Online,Spring,Midterms,Tuesday,9,-12096.41,12890.14,0.0,0.0,60,Medium,Reduce Restaurant Spending
+10,3,2026-04-30 10:24:00,Clothing,Namshi,67.31,Credit Card,False,True,Online,Spring,Midterms,Thursday,10,-1441.26,2234.99,0.0,0.0,60,Medium,Reduce Restaurant Spending
+42,3,2026-05-02 12:26:00,Beauty,Sephora,177.96,Apple Pay,False,True,Online,Spring,Midterms,Saturday,12,-13850.69,14644.42,0.0,0.0,60,Medium,Reduce Restaurant Spending
+28,3,2026-05-03 08:15:00,Electronics,Jarir,2174.73,Cash,False,True,Online,Spring,Midterms,Sunday,8,-10445.16,11238.89,0.0,0.0,60,Medium,Reduce Restaurant Spending
+51,3,2026-05-03 15:25:00,Shopping,Centrepoint,94.04,Apple Pay,False,True,Online,Spring,Midterms,Sunday,15,-15900.77,16694.5,0.0,0.0,60,Medium,Reduce Restaurant Spending
+117,3,2026-05-05 21:36:00,Beauty,Nice One,165.64,Credit Card,False,True,Online,Spring,Midterms,Tuesday,21,-41554.07,42347.8,0.0,0.0,60,Medium,Reduce Restaurant Spending
+39,3,2026-05-08 13:12:00,Clothing,Zara,318.37,Apple Pay,False,True,Online,Spring,,Friday,13,-13253.16,14046.89,0.0,0.0,60,Medium,Reduce Restaurant Spending
+104,3,2026-05-10 09:30:00,Shopping,Amazon,101.78,Credit Card,False,True,Online,Spring,,Sunday,9,-39383.26,40176.99,0.0,0.0,60,Medium,Reduce Restaurant Spending
+119,3,2026-05-13 17:17:00,Electronics,Amazon,1557.0,STC Pay,False,True,Online,Spring,,Wednesday,17,-43394.31,44188.04,0.0,0.0,60,Medium,Reduce Restaurant Spending
+7,3,2026-05-16 08:46:00,Clothing,Zara,183.18,Apple Pay,True,True,Online,Spring,,Saturday,8,-1027.39,1821.12,0.0,0.0,60,Medium,Reduce Restaurant Spending
+17,3,2026-05-16 11:15:00,Restaurants,McDonald's,37.56,Credit Card,False,True,Online,Spring,,Saturday,11,-6674.28,7468.01,0.0,0.0,60,Medium,Reduce Restaurant Spending
+23,3,2026-05-17 17:07:00,Shopping,Noon,236.07,Apple Pay,False,True,Online,Spring,,Sunday,17,-7742.55,8536.28,0.0,0.0,60,Medium,Reduce Restaurant Spending
+15,3,2026-05-18 09:13:00,Electronics,Amazon,2189.5,Debit Card,True,True,Online,Spring,,Monday,9,-4278.05,5071.78,0.0,0.0,60,Medium,Reduce Restaurant Spending
+93,3,2026-05-20 17:20:00,Electronics,Jarir,361.37,Debit Card,False,True,Online,Spring,,Wednesday,17,-32219.44,33013.17,0.0,0.0,60,Medium,Reduce Restaurant Spending
+59,3,2026-05-22 08:00:00,Shopping,Noon,320.89,Credit Card,False,True,Online,Spring,,Friday,8,-22624.6,23418.33,0.0,0.0,60,Medium,Reduce Restaurant Spending
+80,3,2026-05-27 13:27:00,Coffee,Tim Hortons,21.02,Credit Card,False,True,Online,Spring,,Wednesday,13,-28431.77,29225.5,0.0,0.0,60,Medium,Reduce Restaurant Spending
+68,3,2026-06-06 14:14:00,Shopping,Noon,145.44,Apple Pay,False,True,Online,Summer,Finals,Saturday,14,-24480.93,25274.66,0.0,0.0,60,Medium,Reduce Restaurant Spending
+109,3,2026-06-09 10:37:00,Shopping,Centrepoint,257.09,STC Pay,False,True,Online,Summer,Finals,Tuesday,10,-40075.85,40869.58,0.0,0.0,60,Medium,Reduce Restaurant Spending
+76,3,2026-06-10 10:46:00,Electronics,Amazon,1700.63,Apple Pay,False,True,Online,Summer,Finals,Wednesday,10,-27970.34,28764.07,0.0,0.0,60,Medium,Reduce Restaurant Spending
+52,3,2026-06-11 09:00:00,Clothing,Namshi,224.55,Cash,False,True,Online,Summer,Finals,Thursday,9,-16125.32,16919.05,0.0,0.0,60,Medium,Reduce Restaurant Spending
+103,3,2026-06-17 17:48:00,Electronics,Amazon,1150.44,Apple Pay,False,True,Online,Summer,Finals,Wednesday,17,-39281.48,40075.21,0.0,0.0,60,Medium,Reduce Restaurant Spending
+77,3,2026-06-17 19:44:00,Shopping,Noon,99.55,Debit Card,False,False,Gas Station,Summer,Finals,Wednesday,19,-28069.89,28863.62,0.0,0.0,60,Medium,Reduce Restaurant Spending
+69,3,2026-06-18 15:55:00,Shopping,Centrepoint,156.75,Credit Card,False,True,Online,Summer,Finals,Thursday,15,-24637.68,25431.41,0.0,0.0,60,Medium,Reduce Restaurant Spending
+83,3,2026-06-21 09:52:00,Transportation,Uber,15.19,Credit Card,False,True,Online,Summer,Finals,Sunday,9,-28971.21,29764.94,0.0,0.0,60,Medium,Reduce Restaurant Spending
+64,3,2026-07-01 20:39:00,Restaurants,Shawarmer,102.61,Debit Card,False,True,Online,Summer,Summer,Wednesday,20,-23543.77,24337.5,0.0,0.0,60,Medium,Reduce Restaurant Spending
+75,3,2026-07-06 20:04:00,Transportation,Careem,23.53,STC Pay,True,True,Online,Summer,Summer,Monday,20,-26269.71,27063.44,0.0,0.0,60,Medium,Reduce Restaurant Spending
+108,3,2026-07-08 12:38:00,Beauty,Sephora,151.18,Debit Card,False,True,Online,Summer,Summer,Wednesday,12,-39818.76,40612.49,0.0,0.0,60,Medium,Reduce Restaurant Spending
+54,3,2026-07-09 16:10:00,Clothing,Namshi,261.47,Credit Card,True,True,Online,Summer,Summer,Thursday,16,-16584.59,17378.32,0.0,0.0,60,Medium,Reduce Restaurant Spending
+26,3,2026-07-11 12:34:00,Transportation,Taxi,43.22,Cash,True,True,Online,Summer,Summer,Saturday,12,-8031.79,8825.52,0.0,0.0,60,Medium,Reduce Restaurant Spending
+13,3,2026-07-14 15:59:00,Beauty,Sephora,268.83,Credit Card,False,True,Online,Summer,Summer,Tuesday,15,-1984.48,2778.21,0.0,0.0,60,Medium,Reduce Restaurant Spending
+97,3,2026-07-14 22:00:00,Transportation,Careem,43.91,Apple Pay,False,True,Online,Summer,Summer,Tuesday,22,-36159.24,36952.97,0.0,0.0,60,Medium,Reduce Restaurant Spending
+21,3,2026-07-17 19:38:00,Groceries,Carrefour,220.0,Credit Card,False,True,Online,Summer,Summer,Friday,19,-7438.66,8232.39,0.0,0.0,60,Medium,Reduce Restaurant Spending
+95,3,2026-08-01 20:21:00,Clothing,H&M,689.25,Cash,False,True,Online,Summer,Summer,Saturday,20,-33159.52,33953.25,0.0,0.0,60,Medium,Reduce Restaurant Spending
+98,3,2026-08-03 14:31:00,Shopping,Jarir Marketplace,302.93,Apple Pay,False,True,Online,Summer,Summer,Monday,14,-36462.17,37255.9,0.0,0.0,60,Medium,Reduce Restaurant Spending
+116,3,2026-08-12 15:20:00,Entertainment,VOX Cinema,132.34,Credit Card,False,False,Gas Station,Summer,Summer,Wednesday,15,-41388.43,42182.16,0.0,0.0,60,Medium,Reduce Restaurant Spending
+44,3,2026-08-21 16:27:00,Restaurants,Burger King,99.93,STC Pay,False,True,Online,Summer,Summer,Friday,16,-14218.78,15012.51,0.0,0.0,60,Medium,Reduce Restaurant Spending
+89,3,2026-08-26 23:35:00,Beauty,Nice One,267.97,STC Pay,False,True,Online,Summer,Summer,Wednesday,23,-30376.98,31170.71,0.0,0.0,60,Medium,Reduce Restaurant Spending
+81,3,2026-08-27 21:28:00,Restaurants,McDonald's,98.7,Apple Pay,False,False,Campus,Summer,Summer,Thursday,21,-28530.47,29324.2,0.0,0.0,60,Medium,Reduce Restaurant Spending
+100,3,2026-08-28 11:39:00,Clothing,H&M,634.87,STC Pay,False,True,Online,Summer,Summer,Friday,11,-37398.07,38191.8,0.0,0.0,60,Medium,Reduce Restaurant Spending
+91,3,2026-09-01 21:16:00,Coffee,Dunkin,24.79,STC Pay,False,True,Online,Autumn,,Tuesday,21,-31686.26,32479.99,0.0,0.0,60,Medium,Reduce Restaurant Spending
+47,3,2026-09-02 23:58:00,Entertainment,AMC,135.8,Cash,True,False,Supermarket,Autumn,,Wednesday,23,-15290.45,16084.18,0.0,0.0,60,Medium,Reduce Restaurant Spending
+29,3,2026-09-06 09:48:00,Clothing,Zara,255.57,Debit Card,False,True,Online,Autumn,,Sunday,9,-10700.73,11494.46,0.0,0.0,60,Medium,Reduce Restaurant Spending
+92,3,2026-09-06 14:17:00,Clothing,Namshi,171.81,Credit Card,False,False,Campus,Autumn,,Sunday,14,-31858.07,32651.8,0.0,0.0,60,Medium,Reduce Restaurant Spending
+58,3,2026-09-08 15:57:00,Electronics,Jarir,2218.18,Cash,False,False,Gas Station,Autumn,,Tuesday,15,-22303.71,23097.44,0.0,0.0,60,Medium,Reduce Restaurant Spending
+90,3,2026-09-16 20:53:00,Electronics,Noon,1284.49,Debit Card,False,True,Online,Autumn,,Wednesday,20,-31661.47,32455.2,0.0,0.0,60,Medium,Reduce Restaurant Spending
+35,3,2026-09-21 14:17:00,Beauty,Sephora,137.05,STC Pay,True,True,Online,Autumn,National Day,Monday,14,-12233.46,13027.19,0.0,0.0,60,Medium,Reduce Restaurant Spending
+32,3,2026-09-22 21:07:00,Shopping,Amazon,255.56,Credit Card,True,True,Online,Autumn,National Day,Tuesday,21,-11621.97,12415.7,0.0,0.0,60,Medium,Reduce Restaurant Spending
+31,3,2026-10-04 13:45:00,Shopping,Centrepoint,333.59,Apple Pay,True,True,Online,Autumn,,Sunday,13,-11366.41,12160.14,0.0,0.0,60,Medium,Reduce Restaurant Spending
+62,3,2026-10-10 11:27:00,Shopping,Centrepoint,206.0,Credit Card,False,True,Online,Autumn,,Saturday,11,-23409.45,24203.18,0.0,0.0,60,Medium,Reduce Restaurant Spending
+22,3,2026-10-11 07:43:00,Restaurants,Burger King,67.82,STC Pay,False,True,Online,Autumn,,Sunday,7,-7506.48,8300.21,0.0,0.0,60,Medium,Reduce Restaurant Spending
+88,3,2026-10-13 14:58:00,Entertainment,Boulevard,31.71,Debit Card,False,True,Online,Autumn,,Tuesday,14,-30109.01,30902.74,0.0,0.0,60,Medium,Reduce Restaurant Spending
+101,3,2026-10-16 07:05:00,Beauty,Sephora,266.01,Apple Pay,False,True,Online,Autumn,,Friday,7,-37664.08,38457.81,0.0,0.0,60,Medium,Reduce Restaurant Spending
+79,3,2026-10-19 16:25:00,Clothing,Zara,286.27,Credit Card,False,True,Online,Autumn,,Monday,16,-28410.75,29204.48,0.0,0.0,60,Medium,Reduce Restaurant Spending
+46,3,2026-10-24 08:47:00,Shopping,Amazon,380.59,STC Pay,False,True,Online,Autumn,,Saturday,8,-15154.65,15948.38,0.0,0.0,60,Medium,Reduce Restaurant Spending
+18,3,2026-10-27 20:57:00,Beauty,Nice One,146.94,Debit Card,True,True,Online,Autumn,,Tuesday,20,-6821.22,7614.95,0.0,0.0,60,Medium,Reduce Restaurant Spending
+111,3,2026-10-31 14:06:00,Restaurants,Kudu,79.46,STC Pay,True,True,Online,Autumn,,Saturday,14,-40165.3,40959.03,0.0,0.0,60,Medium,Reduce Restaurant Spending
+72,3,2026-11-02 20:22:00,Restaurants,Kudu,78.24,Apple Pay,False,True,Online,Autumn,,Monday,20,-25269.2,26062.93,0.0,0.0,60,Medium,Reduce Restaurant Spending
+27,3,2026-11-03 17:31:00,Shopping,Centrepoint,238.64,Credit Card,False,True,Online,Autumn,,Tuesday,17,-8270.43,9064.16,0.0,0.0,60,Medium,Reduce Restaurant Spending
+57,3,2026-11-06 13:45:00,Shopping,Centrepoint,322.0,STC Pay,False,True,Online,Autumn,,Friday,13,-20085.53,20879.26,0.0,0.0,60,Medium,Reduce Restaurant Spending
+73,3,2026-11-07 23:07:00,Clothing,Namshi,544.84,Debit Card,False,False,Restaurant,Autumn,,Saturday,23,-25814.04,26607.77,0.0,0.0,60,Medium,Reduce Restaurant Spending
+12,3,2026-11-08 12:34:00,Restaurants,Shawarmer,47.01,Apple Pay,True,True,Online,Autumn,,Sunday,12,-1715.65,2509.38,0.0,0.0,60,Medium,Reduce Restaurant Spending
+85,3,2026-11-09 09:29:00,Clothing,Namshi,158.06,STC Pay,False,True,Online,Autumn,,Monday,9,-29372.85,30166.58,0.0,0.0,60,Medium,Reduce Restaurant Spending
+55,3,2026-11-10 23:00:00,Beauty,Nice One,228.41,Cash,False,True,Online,Autumn,,Tuesday,23,-16813.0,17606.73,0.0,0.0,60,Medium,Reduce Restaurant Spending
+25,3,2026-11-17 16:53:00,Beauty,Sephora,214.4,Debit Card,False,True,Online,Autumn,,Tuesday,16,-7988.57,8782.3,0.0,0.0,60,Medium,Reduce Restaurant Spending
+20,3,2026-11-18 12:50:00,Restaurants,McDonald's,45.42,Cash,False,True,Online,Autumn,,Wednesday,12,-7218.66,8012.39,0.0,0.0,60,Medium,Reduce Restaurant Spending
+70,3,2026-11-25 23:25:00,Beauty,Nice One,450.0,Cash,True,True,Online,Autumn,White Friday,Wednesday,23,-25087.68,25881.41,0.0,0.0,60,Medium,Reduce Restaurant Spending
+16,3,2026-12-02 22:25:00,Electronics,Noon,2358.67,Debit Card,True,True,Online,Winter,,Wednesday,22,-6636.72,7430.45,0.0,0.0,60,Medium,Reduce Restaurant Spending
+50,3,2026-12-03 23:20:00,Transportation,Uber,18.4,Credit Card,False,True,Online,Winter,,Thursday,23,-15806.73,16600.46,0.0,0.0,60,Medium,Reduce Restaurant Spending
+82,3,2026-12-04 09:18:00,Clothing,Namshi,425.55,STC Pay,False,True,Online,Winter,,Friday,9,-28956.02,29749.75,0.0,0.0,60,Medium,Reduce Restaurant Spending
+30,3,2026-12-04 22:35:00,Shopping,Jarir Marketplace,332.09,Debit Card,False,True,Online,Winter,,Friday,22,-11032.82,11826.55,0.0,0.0,60,Medium,Reduce Restaurant Spending
+45,3,2026-12-05 22:09:00,Shopping,Noon,555.28,Cash,True,True,Online,Winter,,Saturday,22,-14774.06,15567.79,0.0,0.0,60,Medium,Reduce Restaurant Spending
+78,3,2026-12-07 19:43:00,Restaurants,Shawarmer,54.59,STC Pay,True,True,Online,Winter,,Monday,19,-28124.48,28918.21,0.0,0.0,60,Medium,Reduce Restaurant Spending
+107,3,2026-12-09 10:36:00,Transportation,Careem,18.14,Credit Card,True,True,Online,Winter,,Wednesday,10,-39667.58,40461.31,0.0,0.0,60,Medium,Reduce Restaurant Spending
+66,3,2026-12-09 14:17:00,Shopping,Amazon,243.01,Apple Pay,True,True,Online,Winter,,Wednesday,14,-24163.57,24957.3,0.0,0.0,60,Medium,Reduce Restaurant Spending
+38,3,2026-12-11 10:03:00,Clothing,H&M,306.74,Cash,True,True,Online,Winter,,Friday,10,-12934.79,13728.52,0.0,0.0,60,Medium,Reduce Restaurant Spending
+110,3,2026-12-13 19:25:00,Transportation,Uber,9.99,Cash,False,True,Online,Winter,,Sunday,19,-40085.84,40879.57,0.0,0.0,60,Medium,Reduce Restaurant Spending
+61,3,2026-12-20 11:34:00,Shopping,Centrepoint,232.83,STC Pay,True,True,Online,Winter,,Sunday,11,-23203.45,23997.18,0.0,0.0,60,Medium,Reduce Restaurant Spending
+5,3,2026-12-24 20:21:00,Shopping,Noon,219.03,Credit Card,False,True,Online,Winter,,Thursday,20,-650.68,1444.41,0.0,0.0,60,Medium,Reduce Restaurant Spending
+129,1,2026-01-07 16:30:00,Education,Coursera,60.5,Debit Card,True,False,Mall,Winter,,Wednesday,16,1369.24,325.36,1474.64,0.246,100,Low,Maintain Current Habits
+187,1,2026-01-08 15:34:00,Groceries,Tamimi,33.15,Credit Card,True,False,Supermarket,Winter,,Thursday,15,-5232.25,6926.85,0.0,0.0,60,Medium,Reduce Restaurant Spending
+202,1,2026-01-09 12:16:00,Groceries,Lulu,46.65,STC Pay,True,False,Mall,Winter,,Friday,12,-6955.6,8650.2,0.0,0.0,60,Medium,Reduce Restaurant Spending
+182,1,2026-01-18 18:46:00,Groceries,Tamimi,41.46,Credit Card,True,False,Gas Station,Winter,,Sunday,18,-3997.93,5692.53,0.0,0.0,60,Medium,Reduce Restaurant Spending
+163,1,2026-01-19 11:32:00,Healthcare,Al-Dawaa,40.0,Cash,True,False,Gas Station,Winter,,Monday,11,-3016.81,4711.41,0.0,0.0,60,Medium,Reduce Restaurant Spending
+203,1,2026-02-02 22:28:00,Restaurants,McDonald's,30.0,STC Pay,True,False,Mall,Winter,,Monday,22,-6985.6,8680.2,0.0,0.0,60,Medium,Reduce Restaurant Spending
+207,1,2026-02-03 11:17:00,Books,Amazon Books,30.0,Apple Pay,True,True,Online,Winter,,Tuesday,11,-8219.59,9914.19,0.0,0.0,60,Medium,Reduce Restaurant Spending
+157,1,2026-02-05 15:49:00,Shopping,Jarir Marketplace,103.8,Credit Card,True,True,Online,Winter,,Thursday,15,-1993.12,3687.72,0.0,0.0,60,Medium,Reduce Restaurant Spending
+131,1,2026-02-07 08:09:00,Groceries,Carrefour,66.83,Credit Card,True,False,Mall,Winter,,Saturday,8,1217.29,477.31,1322.69,0.22,100,Low,Maintain Current Habits
+172,1,2026-02-10 19:39:00,Coffee,Half Million,12.0,STC Pay,True,False,Campus,Winter,,Tuesday,19,-3644.29,5338.89,0.0,0.0,60,Medium,Reduce Restaurant Spending
+146,1,2026-02-16 22:22:00,Education,Coursera,110.1,Cash,True,False,Campus,Winter,,Monday,22,510.93,1183.67,616.33,0.103,92,Low,Maintain Current Habits
+211,1,2026-02-18 17:27:00,Transportation,Careem,10.02,Credit Card,True,True,Online,Winter,Ramadan,Wednesday,17,-8452.2,10146.8,0.0,0.0,60,Medium,Reduce Restaurant Spending
+164,1,2026-02-21 23:58:00,Education,University Bookstore,144.94,Debit Card,True,False,Gas Station,Winter,Ramadan,Saturday,23,-3161.75,4856.35,0.0,0.0,60,Medium,Reduce Restaurant Spending
+191,1,2026-03-01 10:15:00,Entertainment,AMC,20.0,Apple Pay,True,False,Gas Station,Spring,Ramadan,Sunday,10,-5448.83,7143.43,0.0,0.0,60,Medium,Reduce Restaurant Spending
+154,1,2026-03-02 11:31:00,Electronics,Amazon,1754.44,STC Pay,True,True,Online,Spring,Ramadan,Monday,11,-1718.01,3412.61,0.0,0.0,60,Medium,Reduce Restaurant Spending
+140,1,2026-03-14 09:03:00,Groceries,Tamimi,54.42,STC Pay,False,False,Supermarket,Spring,Ramadan,Saturday,9,916.84,777.76,1022.24,0.17,100,Low,Maintain Current Habits
+212,1,2026-03-20 22:04:00,Groceries,Panda,52.64,Cash,True,True,Online,Spring,Eid,Friday,22,-8504.84,10199.44,0.0,0.0,60,Medium,Reduce Restaurant Spending
+183,1,2026-03-31 13:08:00,Restaurants,Kudu,30.0,STC Pay,True,False,Supermarket,Spring,,Tuesday,13,-4027.93,5722.53,0.0,0.0,60,Medium,Reduce Restaurant Spending
+151,1,2026-04-15 15:35:00,Groceries,Tamimi,75.87,Apple Pay,True,True,Online,Spring,,Wednesday,15,130.89,1563.71,236.29,0.039,85,Low,Increase Monthly Savings
+198,1,2026-04-16 09:53:00,Restaurants,Shawarmer,30.0,STC Pay,True,False,Campus,Spring,,Thursday,9,-6767.74,8462.34,0.0,0.0,60,Medium,Reduce Restaurant Spending
+135,1,2026-04-17 13:16:00,Coffee,Barn's,12.0,Debit Card,True,False,Campus,Spring,,Friday,13,1115.29,579.31,1220.69,0.203,100,Low,Maintain Current Habits
+173,1,2026-04-29 21:40:00,Transportation,Careem,8.0,Cash,True,False,Gas Station,Spring,Midterms,Wednesday,21,-3652.29,5346.89,0.0,0.0,60,Medium,Reduce Restaurant Spending
+199,1,2026-04-30 17:49:00,Groceries,Carrefour,30.0,Cash,True,True,Online,Spring,Midterms,Thursday,17,-6797.74,8492.34,0.0,0.0,60,Medium,Reduce Restaurant Spending
+171,1,2026-05-06 23:26:00,Books,Jarir,65.75,Debit Card,True,False,Campus,Spring,,Wednesday,23,-3632.29,5326.89,0.0,0.0,60,Medium,Reduce Restaurant Spending
+132,1,2026-05-08 10:35:00,Restaurants,McDonald's,30.0,STC Pay,True,True,Online,Spring,,Friday,10,1187.29,507.31,1292.69,0.215,100,Low,Maintain Current Habits
+130,1,2026-05-10 22:07:00,Shopping,Jarir Marketplace,85.12,Apple Pay,True,True,Online,Spring,,Sunday,22,1284.12,410.48,1389.52,0.232,100,Low,Maintain Current Habits
+184,1,2026-05-20 12:16:00,Electronics,Noon,965.14,Credit Card,True,True,Online,Spring,,Wednesday,12,-4993.07,6687.67,0.0,0.0,60,Medium,Reduce Restaurant Spending
+178,1,2026-05-21 07:36:00,Entertainment,VOX Cinema,28.27,STC Pay,True,False,Gas Station,Spring,,Thursday,7,-3798.0,5492.6,0.0,0.0,60,Medium,Reduce Restaurant Spending
+128,1,2026-05-21 08:03:00,Books,Jarir,31.48,Apple Pay,True,False,Mall,Spring,,Thursday,8,1429.74,264.86,1535.14,0.256,100,Low,Maintain Current Habits
+200,1,2026-05-22 11:08:00,Books,Jarir,59.62,Cash,True,True,Online,Spring,,Friday,11,-6857.36,8551.96,0.0,0.0,60,Medium,Reduce Restaurant Spending
+196,1,2026-05-22 13:07:00,Healthcare,Al-Dawaa,111.23,Cash,True,False,Campus,Spring,,Friday,13,-6643.7,8338.3,0.0,0.0,60,Medium,Reduce Restaurant Spending
+179,1,2026-05-27 14:38:00,Shopping,Noon,80.0,Debit Card,True,True,Online,Spring,,Wednesday,14,-3878.0,5572.6,0.0,0.0,60,Medium,Reduce Restaurant Spending
+174,1,2026-05-28 12:04:00,Education,Coursera,87.18,STC Pay,True,True,Online,Spring,,Thursday,12,-3739.47,5434.07,0.0,0.0,60,Medium,Reduce Restaurant Spending
+215,1,2026-05-28 16:22:00,Groceries,Carrefour,30.0,Debit Card,True,False,Campus,Spring,,Thursday,16,-8629.49,10324.09,0.0,0.0,60,Medium,Reduce Restaurant Spending
+141,1,2026-05-28 21:07:00,Education,Coursera,101.71,Apple Pay,True,False,Restaurant,Spring,,Thursday,21,815.13,879.47,920.53,0.153,100,Low,Maintain Current Habits
+137,1,2026-05-30 08:14:00,Transportation,Careem,9.3,Apple Pay,True,False,Mall,Spring,,Saturday,8,1047.5,647.1,1152.9,0.192,100,Low,Maintain Current Habits
+122,1,2026-05-31 14:25:00,Coffee,Dunkin,12.0,STC Pay,True,True,Online,Spring,,Sunday,14,1647.63,46.97,1753.03,0.292,100,Low,Maintain Current Habits
+127,1,2026-06-01 14:23:00,Groceries,Panda,59.19,STC Pay,True,False,Campus,Summer,,Monday,14,1461.22,233.38,1566.62,0.261,100,Low,Maintain Current Habits
+175,1,2026-06-03 20:44:00,Transportation,Careem,8.0,Debit Card,True,True,Online,Summer,,Wednesday,20,-3747.47,5442.07,0.0,0.0,60,Medium,Reduce Restaurant Spending
+153,1,2026-06-09 07:35:00,Education,Udemy,50.0,Cash,True,False,Gas Station,Summer,Finals,Tuesday,7,36.43,1658.17,141.83,0.024,75,Medium,Increase Monthly Savings
+125,1,2026-06-11 10:47:00,Books,Jarir,30.0,Debit Card,True,False,Campus,Summer,Finals,Thursday,10,1550.41,144.19,1655.81,0.276,100,Low,Maintain Current Habits
+167,1,2026-06-12 22:55:00,Books,Jarir,41.25,Debit Card,True,True,Online,Summer,Finals,Friday,22,-3393.53,5088.13,0.0,0.0,60,Medium,Reduce Restaurant Spending
+170,1,2026-06-16 08:18:00,Education,Coursera,50.0,Debit Card,True,True,Online,Summer,Finals,Tuesday,8,-3566.54,5261.14,0.0,0.0,60,Medium,Reduce Restaurant Spending
+147,1,2026-06-18 20:44:00,Education,University Bookstore,111.36,Apple Pay,True,True,Online,Summer,Finals,Thursday,20,399.57,1295.03,504.97,0.084,92,Low,Maintain Current Habits
+160,1,2026-06-20 19:29:00,Electronics,Extra,714.48,Debit Card,True,True,Online,Summer,Finals,Saturday,19,-2844.67,4539.27,0.0,0.0,60,Medium,Reduce Restaurant Spending
+185,1,2026-06-23 10:29:00,Healthcare,Nahdi,63.38,Debit Card,True,True,Online,Summer,Finals,Tuesday,10,-5056.45,6751.05,0.0,0.0,60,Medium,Reduce Restaurant Spending
+124,1,2026-06-30 21:17:00,Transportation,Uber,8.0,Cash,True,False,Campus,Summer,,Tuesday,21,1580.41,114.19,1685.81,0.281,100,Low,Maintain Current Habits
+123,1,2026-07-08 22:35:00,Books,Amazon Books,59.22,STC Pay,False,False,Restaurant,Summer,Summer,Wednesday,22,1588.41,106.19,1693.81,0.282,100,Low,Maintain Current Habits
+192,1,2026-07-09 20:37:00,Restaurants,Shawarmer,32.67,Apple Pay,True,True,Online,Summer,Summer,Thursday,20,-5481.5,7176.1,0.0,0.0,60,Medium,Reduce Restaurant Spending
+188,1,2026-07-15 18:06:00,Restaurants,Herfy,49.25,Cash,True,True,Online,Summer,Summer,Wednesday,18,-5281.5,6976.1,0.0,0.0,60,Medium,Reduce Restaurant Spending
+176,1,2026-07-16 22:06:00,Transportation,Taxi,12.26,Credit Card,True,True,Online,Summer,Summer,Thursday,22,-3759.73,5454.33,0.0,0.0,60,Medium,Reduce Restaurant Spending
+149,1,2026-07-26 23:52:00,Bills,Saudi Electricity,80.0,STC Pay,False,False,Gas Station,Summer,Summer,Sunday,23,271.9,1422.7,377.3,0.063,85,Low,Increase Monthly Savings
+150,1,2026-07-31 08:12:00,Books,Amazon Books,65.14,Apple Pay,True,False,Mall,Summer,Summer,Friday,8,206.76,1487.84,312.16,0.052,85,Low,Increase Monthly Savings
+213,1,2026-08-10 10:47:00,Restaurants,Shawarmer,45.24,STC Pay,True,False,Mall,Summer,Summer,Monday,10,-8550.08,10244.68,0.0,0.0,60,Medium,Reduce Restaurant Spending
+210,1,2026-08-20 14:26:00,Education,Coursera,113.46,Apple Pay,True,False,Gas Station,Summer,Summer,Thursday,14,-8442.18,10136.78,0.0,0.0,60,Medium,Reduce Restaurant Spending
+204,1,2026-08-20 23:14:00,Healthcare,Nahdi,76.56,STC Pay,False,False,Restaurant,Summer,Summer,Thursday,23,-7062.16,8756.76,0.0,0.0,60,Medium,Reduce Restaurant Spending
+156,1,2026-08-22 11:24:00,Transportation,Taxi,9.87,STC Pay,True,False,Campus,Summer,Summer,Saturday,11,-1889.32,3583.92,0.0,0.0,60,Medium,Reduce Restaurant Spending
+205,1,2026-08-23 07:03:00,Bills,Mobily,89.96,Apple Pay,True,False,Mall,Summer,Summer,Sunday,7,-7152.12,8846.72,0.0,0.0,60,Medium,Reduce Restaurant Spending
+162,1,2026-08-31 19:24:00,Bills,Saudi Electricity,106.09,Debit Card,True,False,Gas Station,Summer,Summer,Monday,19,-2976.81,4671.41,0.0,0.0,60,Medium,Reduce Restaurant Spending
+126,1,2026-09-05 15:46:00,Books,Amazon Books,30.0,Cash,True,False,Campus,Autumn,,Saturday,15,1520.41,174.19,1625.81,0.271,100,Low,Maintain Current Habits
+206,1,2026-09-09 21:04:00,Electronics,Amazon,1037.47,STC Pay,True,False,Campus,Autumn,,Wednesday,21,-8189.59,9884.19,0.0,0.0,60,Medium,Reduce Restaurant Spending
+142,1,2026-09-14 22:28:00,Groceries,Panda,47.2,Apple Pay,True,False,Restaurant,Autumn,,Monday,22,767.93,926.67,873.33,0.146,100,Low,Maintain Current Habits
+158,1,2026-09-17 15:52:00,Groceries,Tamimi,80.85,STC Pay,True,False,Supermarket,Autumn,,Thursday,15,-2073.97,3768.57,0.0,0.0,60,Medium,Reduce Restaurant Spending
+148,1,2026-10-09 08:29:00,Groceries,Tamimi,47.67,Credit Card,True,False,Mall,Autumn,,Friday,8,351.9,1342.7,457.3,0.076,92,Low,Maintain Current Habits
+136,1,2026-10-10 09:10:00,Groceries,Lulu,58.49,STC Pay,True,False,Gas Station,Autumn,,Saturday,9,1056.8,637.8,1162.2,0.194,100,Low,Maintain Current Habits
+161,1,2026-10-20 19:14:00,Entertainment,Boulevard,26.05,Cash,False,False,Restaurant,Autumn,,Tuesday,19,-2870.72,4565.32,0.0,0.0,60,Medium,Reduce Restaurant Spending
+177,1,2026-10-22 16:44:00,Transportation,Taxi,10.0,Apple Pay,True,True,Online,Autumn,,Thursday,16,-3769.73,5464.33,0.0,0.0,60,Medium,Reduce Restaurant Spending
+214,1,2026-10-28 17:42:00,Groceries,Tamimi,49.41,Apple Pay,True,False,Mall,Autumn,,Wednesday,17,-8599.49,10294.09,0.0,0.0,60,Medium,Reduce Restaurant Spending
+134,1,2026-10-29 20:19:00,Books,Jarir,30.0,STC Pay,False,False,Mall,Autumn,,Thursday,20,1127.29,567.31,1232.69,0.205,100,Low,Maintain Current Habits
+208,1,2026-11-02 23:18:00,Education,University Bookstore,97.13,Apple Pay,True,False,Mall,Autumn,,Monday,23,-8316.72,10011.32,0.0,0.0,60,Medium,Reduce Restaurant Spending
+143,1,2026-11-06 15:01:00,Groceries,Carrefour,66.45,STC Pay,True,False,Mall,Autumn,,Friday,15,701.48,993.12,806.88,0.134,100,Low,Maintain Current Habits
+133,1,2026-11-13 14:49:00,Books,Amazon Books,30.0,Apple Pay,True,False,Restaurant,Autumn,,Friday,14,1157.29,537.31,1262.69,0.21,100,Low,Maintain Current Habits
+180,1,2026-11-14 15:43:00,Restaurants,Burger King,33.3,Debit Card,True,True,Online,Autumn,,Saturday,15,-3911.3,5605.9,0.0,0.0,60,Medium,Reduce Restaurant Spending
+189,1,2026-11-14 17:58:00,Books,Jarir,59.86,Apple Pay,True,False,Restaurant,Autumn,,Saturday,17,-5341.36,7035.96,0.0,0.0,60,Medium,Reduce Restaurant Spending
+181,1,2026-11-18 10:57:00,Books,Jarir,45.17,Credit Card,True,False,Gas Station,Autumn,,Wednesday,10,-3956.47,5651.07,0.0,0.0,60,Medium,Reduce Restaurant Spending
+168,1,2026-11-20 16:14:00,Restaurants,Herfy,41.39,Cash,True,True,Online,Autumn,,Friday,16,-3434.92,5129.52,0.0,0.0,60,Medium,Reduce Restaurant Spending
+169,1,2026-11-21 10:28:00,Groceries,Tamimi,81.62,Cash,True,False,Mall,Autumn,,Saturday,10,-3516.54,5211.14,0.0,0.0,60,Medium,Reduce Restaurant Spending
+197,1,2026-11-25 07:03:00,Shopping,Noon,94.04,Debit Card,True,False,Supermarket,Autumn,White Friday,Wednesday,7,-6737.74,8432.34,0.0,0.0,60,Medium,Reduce Restaurant Spending
+190,1,2026-11-29 20:07:00,Groceries,Panda,87.47,Credit Card,True,False,Gas Station,Autumn,White Friday,Sunday,20,-5428.83,7123.43,0.0,0.0,60,Medium,Reduce Restaurant Spending
+145,1,2026-11-30 21:58:00,Transportation,Taxi,17.85,Apple Pay,True,False,Gas Station,Autumn,White Friday,Monday,21,621.03,1073.57,726.43,0.121,100,Low,Maintain Current Habits
+193,1,2026-12-02 10:53:00,Education,Coursera,66.7,Credit Card,True,False,Mall,Winter,,Wednesday,10,-5548.2,7242.8,0.0,0.0,60,Medium,Reduce Restaurant Spending
+165,1,2026-12-02 11:04:00,Education,Coursera,129.96,Credit Card,True,False,Supermarket,Winter,,Wednesday,11,-3291.71,4986.31,0.0,0.0,60,Medium,Reduce Restaurant Spending
+159,1,2026-12-04 22:55:00,Groceries,Carrefour,56.22,Apple Pay,True,False,Restaurant,Winter,,Friday,22,-2130.19,3824.79,0.0,0.0,60,Medium,Reduce Restaurant Spending
+201,1,2026-12-05 07:08:00,Groceries,Danube,51.59,STC Pay,True,False,Restaurant,Winter,,Saturday,7,-6908.95,8603.55,0.0,0.0,60,Medium,Reduce Restaurant Spending
+139,1,2026-12-05 13:27:00,Groceries,Danube,68.24,Debit Card,True,False,Restaurant,Winter,,Saturday,13,971.26,723.34,1076.66,0.179,100,Low,Maintain Current Habits
+144,1,2026-12-11 15:36:00,Groceries,Danube,62.6,Apple Pay,False,False,Supermarket,Winter,,Friday,15,638.88,1055.72,744.28,0.124,100,Low,Maintain Current Habits
+186,1,2026-12-13 19:54:00,Shopping,Centrepoint,142.65,Cash,True,False,Gas Station,Winter,,Sunday,19,-5199.1,6893.7,0.0,0.0,60,Medium,Reduce Restaurant Spending
+138,1,2026-12-18 14:59:00,Transportation,Taxi,8.0,STC Pay,True,True,Online,Winter,,Friday,14,1039.5,655.1,1144.9,0.191,100,Low,Maintain Current Habits
+195,1,2026-12-18 18:34:00,Electronics,Amazon,932.65,Cash,True,False,Gas Station,Winter,,Friday,18,-6532.47,8227.07,0.0,0.0,60,Medium,Reduce Restaurant Spending
+194,1,2026-12-20 18:13:00,Education,Udemy,51.62,Credit Card,True,False,Mall,Winter,,Sunday,18,-5599.82,7294.42,0.0,0.0,60,Medium,Reduce Restaurant Spending
+121,1,2026-12-20 22:41:00,Restaurants,Herfy,34.97,Cash,True,False,Mall,Winter,,Sunday,22,1659.63,34.97,1765.03,0.294,100,Low,Maintain Current Habits
+166,1,2026-12-21 19:41:00,Groceries,Tamimi,60.57,STC Pay,True,False,Gas Station,Winter,,Monday,19,-3352.28,5046.88,0.0,0.0,60,Medium,Reduce Restaurant Spending
+152,1,2026-12-24 22:07:00,Groceries,Carrefour,44.46,Debit Card,True,False,Campus,Winter,,Thursday,22,86.43,1608.17,191.83,0.032,85,Low,Increase Monthly Savings
+209,1,2026-12-26 10:54:00,Coffee,Tim Hortons,12.0,Debit Card,True,False,Gas Station,Winter,,Saturday,10,-8328.72,10023.32,0.0,0.0,60,Medium,Reduce Restaurant Spending
+155,1,2026-12-28 15:26:00,Shopping,Jarir Marketplace,161.44,Debit Card,False,True,Online,Winter,,Monday,15,-1879.45,3574.05,0.0,0.0,60,Medium,Reduce Restaurant Spending
+410,2,2026-01-04 20:08:00,Books,Jarir,30.0,Cash,False,False,Campus,Winter,,Sunday,20,-11516.04,12339.01,0.0,0.0,60,Medium,Reduce Restaurant Spending
+411,2,2026-01-05 13:32:00,Groceries,Panda,115.95,STC Pay,True,False,Supermarket,Winter,,Monday,13,-11631.99,12454.96,0.0,0.0,60,Medium,Reduce Restaurant Spending
+413,2,2026-01-07 07:33:00,Entertainment,Winter Wonderland,73.11,Cash,False,True,Online,Winter,,Wednesday,7,-11719.31,12542.28,0.0,0.0,60,Medium,Reduce Restaurant Spending
+405,2,2026-01-09 15:35:00,Healthcare,Al-Dawaa,105.74,Credit Card,True,False,Campus,Winter,,Friday,15,-11309.38,12132.35,0.0,0.0,60,Medium,Reduce Restaurant Spending
+379,2,2026-01-17 16:26:00,Restaurants,Shawarmer,43.62,Apple Pay,False,False,Restaurant,Winter,,Saturday,16,-4507.29,5330.26,0.0,0.0,60,Medium,Reduce Restaurant Spending
+398,2,2026-01-21 09:12:00,Education,University Bookstore,134.49,STC Pay,True,False,Campus,Winter,,Wednesday,9,-8182.27,9005.24,0.0,0.0,60,Medium,Reduce Restaurant Spending
+350,2,2026-01-22 16:45:00,Coffee,Half Million,14.27,Credit Card,True,False,Gas Station,Winter,,Thursday,16,-893.65,1716.62,0.0,0.0,60,Medium,Reduce Restaurant Spending
+378,2,2026-01-24 20:22:00,Entertainment,VOX Cinema,82.93,Cash,False,False,Gas Station,Winter,,Saturday,20,-4463.67,5286.64,0.0,0.0,60,Medium,Reduce Restaurant Spending
+353,2,2026-01-27 10:26:00,Transportation,Careem,11.78,Cash,True,True,Online,Winter,,Tuesday,10,-979.95,1802.92,0.0,0.0,60,Medium,Reduce Restaurant Spending
+376,2,2026-01-30 21:43:00,Education,University Bookstore,219.92,Cash,False,True,Online,Winter,,Friday,21,-4363.43,5186.4,0.0,0.0,60,Medium,Reduce Restaurant Spending
+381,2,2026-02-11 11:41:00,Books,Jarir,46.22,Debit Card,True,False,Supermarket,Winter,,Wednesday,11,-6506.52,7329.49,0.0,0.0,60,Medium,Reduce Restaurant Spending
+356,2,2026-02-15 14:34:00,Entertainment,VOX Cinema,75.25,Debit Card,False,True,Online,Winter,,Sunday,14,-1234.0,2056.97,0.0,0.0,60,Medium,Reduce Restaurant Spending
+418,2,2026-02-17 19:24:00,Transportation,Careem,18.66,Cash,True,False,Mall,Winter,Ramadan,Tuesday,19,-11866.03,12689.0,0.0,0.0,60,Medium,Reduce Restaurant Spending
+359,2,2026-02-24 17:18:00,Groceries,Carrefour,77.78,STC Pay,True,False,Gas Station,Winter,Ramadan,Tuesday,17,-2928.23,3751.2,0.0,0.0,60,Medium,Reduce Restaurant Spending
+352,2,2026-02-25 14:15:00,Coffee,Tim Hortons,15.34,Debit Card,True,False,Campus,Winter,Ramadan,Wednesday,14,-968.17,1791.14,0.0,0.0,60,Medium,Reduce Restaurant Spending
+385,2,2026-02-27 08:51:00,Shopping,Amazon,153.65,Debit Card,True,True,Online,Winter,Ramadan,Friday,8,-6879.58,7702.55,0.0,0.0,60,Medium,Reduce Restaurant Spending
+372,2,2026-02-27 08:53:00,Groceries,Carrefour,99.86,Debit Card,True,True,Online,Winter,Ramadan,Friday,8,-4006.25,4829.22,0.0,0.0,60,Medium,Reduce Restaurant Spending
+374,2,2026-03-01 13:45:00,Groceries,Panda,95.77,STC Pay,True,True,Online,Spring,Ramadan,Sunday,13,-4113.51,4936.48,0.0,0.0,60,Medium,Reduce Restaurant Spending
+360,2,2026-03-10 23:29:00,Transportation,Uber,15.0,Credit Card,True,False,Campus,Spring,Ramadan,Tuesday,23,-2943.23,3766.2,0.0,0.0,60,Medium,Reduce Restaurant Spending
+388,2,2026-03-13 23:18:00,Restaurants,Burger King,48.72,STC Pay,True,False,Restaurant,Spring,Ramadan,Friday,23,-7064.13,7887.1,0.0,0.0,60,Medium,Reduce Restaurant Spending
+342,2,2026-03-19 20:44:00,Restaurants,McDonald's,89.96,STC Pay,True,True,Online,Spring,Eid,Thursday,20,-447.62,1270.59,0.0,0.0,60,Medium,Reduce Restaurant Spending
+424,2,2026-03-25 14:36:00,Education,Coursera,84.74,STC Pay,True,True,Online,Spring,Eid,Wednesday,14,-12317.84,13140.81,0.0,0.0,60,Medium,Reduce Restaurant Spending
+408,2,2026-03-28 18:10:00,Restaurants,McDonald's,30.0,Apple Pay,True,True,Online,Spring,,Saturday,18,-11474.04,12297.01,0.0,0.0,60,Medium,Reduce Restaurant Spending
+409,2,2026-04-05 08:33:00,Coffee,Starbucks,12.0,Cash,False,True,Online,Spring,,Sunday,8,-11486.04,12309.01,0.0,0.0,60,Medium,Reduce Restaurant Spending
+358,2,2026-04-06 16:56:00,Coffee,Dunkin,17.05,STC Pay,True,False,Supermarket,Spring,,Monday,16,-2850.45,3673.42,0.0,0.0,60,Medium,Reduce Restaurant Spending
+400,2,2026-04-08 10:47:00,Bills,Mobily,124.32,Debit Card,True,False,Supermarket,Spring,,Wednesday,10,-10070.56,10893.53,0.0,0.0,60,Medium,Reduce Restaurant Spending
+406,2,2026-04-11 17:14:00,Transportation,Uber,13.95,Apple Pay,True,True,Online,Spring,,Saturday,17,-11323.33,12146.3,0.0,0.0,60,Medium,Reduce Restaurant Spending
+396,2,2026-04-15 17:41:00,Coffee,Half Million,15.36,Credit Card,True,False,Mall,Spring,,Wednesday,17,-8031.24,8854.21,0.0,0.0,60,Medium,Reduce Restaurant Spending
+404,2,2026-04-15 18:20:00,Groceries,Carrefour,64.75,Debit Card,True,False,Campus,Spring,,Wednesday,18,-11203.64,12026.61,0.0,0.0,60,Medium,Reduce Restaurant Spending
+386,2,2026-04-16 09:06:00,Shopping,Jarir Marketplace,80.0,STC Pay,True,False,Mall,Spring,,Thursday,9,-6959.58,7782.55,0.0,0.0,60,Medium,Reduce Restaurant Spending
+421,2,2026-04-19 22:17:00,Coffee,Starbucks,12.0,Credit Card,False,True,Online,Spring,,Sunday,22,-12041.47,12864.44,0.0,0.0,60,Medium,Reduce Restaurant Spending
+351,2,2026-04-20 13:52:00,Groceries,Carrefour,59.18,Credit Card,True,False,Campus,Spring,Midterms,Monday,13,-952.83,1775.8,0.0,0.0,60,Medium,Reduce Restaurant Spending
+327,2,2026-04-21 18:03:00,Coffee,Half Million,12.0,STC Pay,True,False,Gas Station,Spring,Midterms,Tuesday,18,740.87,82.1,917.9,0.229,100,Low,Maintain Current Habits
+390,2,2026-04-24 20:19:00,Restaurants,McDonald's,44.31,STC Pay,True,False,Campus,Spring,Midterms,Friday,20,-7128.58,7951.55,0.0,0.0,60,Medium,Reduce Restaurant Spending
+384,2,2026-04-28 14:29:00,Transportation,Careem,8.0,Debit Card,True,True,Online,Spring,Midterms,Tuesday,14,-6725.93,7548.9,0.0,0.0,60,Medium,Reduce Restaurant Spending
+365,2,2026-05-01 21:48:00,Restaurants,Kudu,52.07,Credit Card,True,True,Online,Spring,Midterms,Friday,21,-3245.78,4068.75,0.0,0.0,60,Medium,Reduce Restaurant Spending
+387,2,2026-05-06 08:25:00,Groceries,Carrefour,55.83,Debit Card,True,False,Mall,Spring,,Wednesday,8,-7015.41,7838.38,0.0,0.0,60,Medium,Reduce Restaurant Spending
+339,2,2026-05-16 14:46:00,Coffee,Half Million,13.08,Debit Card,False,False,Supermarket,Spring,,Saturday,14,-288.02,1110.99,0.0,0.0,60,Medium,Reduce Restaurant Spending
+416,2,2026-05-17 19:05:00,Transportation,Careem,13.2,Apple Pay,True,True,Online,Spring,,Sunday,19,-11806.73,12629.7,0.0,0.0,60,Medium,Reduce Restaurant Spending
+331,2,2026-05-24 10:08:00,Bills,Mobily,123.11,Credit Card,True,False,Restaurant,Spring,,Sunday,10,387.95,435.02,564.98,0.141,100,Low,Maintain Current Habits
+328,2,2026-05-27 07:54:00,Coffee,Barn's,13.57,Credit Card,True,False,Restaurant,Spring,,Wednesday,7,727.3,95.67,904.33,0.226,100,Low,Maintain Current Habits
+347,2,2026-06-02 16:45:00,Restaurants,Burger King,43.59,Apple Pay,True,False,Restaurant,Summer,,Tuesday,16,-580.29,1403.26,0.0,0.0,60,Medium,Reduce Restaurant Spending
+383,2,2026-06-02 21:43:00,Entertainment,Boulevard,81.26,STC Pay,True,False,Gas Station,Summer,,Tuesday,21,-6717.93,7540.9,0.0,0.0,60,Medium,Reduce Restaurant Spending
+394,2,2026-06-03 11:51:00,Groceries,Panda,92.29,STC Pay,True,True,Online,Summer,,Wednesday,11,-7677.52,8500.49,0.0,0.0,60,Medium,Reduce Restaurant Spending
+337,2,2026-06-03 22:52:00,Coffee,Dunkin,14.16,Cash,True,False,Gas Station,Summer,,Wednesday,22,203.92,619.05,380.95,0.095,92,Low,Maintain Current Habits
+344,2,2026-06-16 22:33:00,Transportation,Uber,14.68,Apple Pay,True,True,Online,Summer,Finals,Tuesday,22,-506.37,1329.34,0.0,0.0,60,Medium,Reduce Restaurant Spending
+363,2,2026-06-17 09:25:00,Education,Udemy,68.47,Debit Card,False,True,Online,Summer,Finals,Wednesday,9,-3153.67,3976.64,0.0,0.0,60,Medium,Reduce Restaurant Spending
+403,2,2026-07-04 23:56:00,Groceries,Panda,135.27,Apple Pay,True,False,Restaurant,Summer,Summer,Saturday,23,-11138.89,11961.86,0.0,0.0,60,Medium,Reduce Restaurant Spending
+330,2,2026-07-05 16:04:00,Groceries,Lulu,91.13,STC Pay,True,True,Online,Summer,Summer,Sunday,16,511.06,311.91,688.09,0.172,100,Low,Maintain Current Habits
+393,2,2026-07-12 12:48:00,Shopping,Noon,309.25,Debit Card,False,True,Online,Summer,Summer,Sunday,12,-7585.23,8408.2,0.0,0.0,60,Medium,Reduce Restaurant Spending
+402,2,2026-07-14 21:34:00,Entertainment,Winter Wonderland,62.14,Credit Card,False,True,Online,Summer,Summer,Tuesday,21,-11003.62,11826.59,0.0,0.0,60,Medium,Reduce Restaurant Spending
+380,2,2026-07-15 21:55:00,Electronics,Noon,1953.01,Apple Pay,True,True,Online,Summer,Summer,Wednesday,21,-6460.3,7283.27,0.0,0.0,60,Medium,Reduce Restaurant Spending
+382,2,2026-07-21 23:08:00,Entertainment,AMC,130.15,Cash,True,False,Mall,Summer,Summer,Tuesday,23,-6636.67,7459.64,0.0,0.0,60,Medium,Reduce Restaurant Spending
+377,2,2026-07-22 15:52:00,Coffee,Barn's,17.31,STC Pay,False,False,Mall,Summer,Summer,Wednesday,15,-4380.74,5203.71,0.0,0.0,60,Medium,Reduce Restaurant Spending
+333,2,2026-07-25 23:02:00,Coffee,Barn's,17.12,Credit Card,False,True,Online,Summer,Summer,Saturday,23,329.45,493.52,506.48,0.127,100,Low,Maintain Current Habits
+329,2,2026-07-26 18:02:00,Groceries,Carrefour,125.11,STC Pay,False,False,Campus,Summer,Summer,Sunday,18,602.19,220.78,779.22,0.195,100,Low,Maintain Current Habits
+395,2,2026-07-31 20:35:00,Shopping,Jarir Marketplace,338.36,Debit Card,True,False,Restaurant,Summer,Summer,Friday,20,-8015.88,8838.85,0.0,0.0,60,Medium,Reduce Restaurant Spending
+370,2,2026-08-01 22:48:00,Shopping,Noon,165.52,Debit Card,False,True,Online,Summer,Summer,Saturday,22,-3813.88,4636.85,0.0,0.0,60,Medium,Reduce Restaurant Spending
+357,2,2026-08-02 12:59:00,Electronics,Noon,1599.4,Apple Pay,False,True,Online,Summer,Summer,Sunday,12,-2833.4,3656.37,0.0,0.0,60,Medium,Reduce Restaurant Spending
+375,2,2026-08-17 08:29:00,Restaurants,Herfy,30.0,Apple Pay,False,False,Supermarket,Summer,Summer,Monday,8,-4143.51,4966.48,0.0,0.0,60,Medium,Reduce Restaurant Spending
+361,2,2026-08-23 15:45:00,Restaurants,Burger King,61.97,Credit Card,True,False,Restaurant,Summer,Summer,Sunday,15,-3005.2,3828.17,0.0,0.0,60,Medium,Reduce Restaurant Spending
+367,2,2026-08-27 16:10:00,Groceries,Carrefour,56.15,Credit Card,True,False,Mall,Summer,Summer,Thursday,16,-3440.66,4263.63,0.0,0.0,60,Medium,Reduce Restaurant Spending
+343,2,2026-08-30 08:45:00,Restaurants,Shawarmer,44.07,STC Pay,True,True,Online,Summer,Summer,Sunday,8,-491.69,1314.66,0.0,0.0,60,Medium,Reduce Restaurant Spending
+334,2,2026-08-31 23:29:00,Restaurants,McDonald's,38.27,Debit Card,True,False,Restaurant,Summer,Summer,Monday,23,291.18,531.79,468.21,0.117,100,Low,Maintain Current Habits
+369,2,2026-09-02 11:29:00,Education,University Bookstore,127.7,Credit Card,True,True,Online,Autumn,,Wednesday,11,-3648.36,4471.33,0.0,0.0,60,Medium,Reduce Restaurant Spending
+355,2,2026-09-02 13:48:00,Healthcare,Al-Dawaa,46.66,Credit Card,True,False,Mall,Autumn,,Wednesday,13,-1158.75,1981.72,0.0,0.0,60,Medium,Reduce Restaurant Spending
+364,2,2026-09-02 17:59:00,Restaurants,Kudu,40.04,Apple Pay,True,True,Online,Autumn,,Wednesday,17,-3193.71,4016.68,0.0,0.0,60,Medium,Reduce Restaurant Spending
+399,2,2026-09-03 13:55:00,Electronics,Amazon,1763.97,Cash,True,False,Campus,Autumn,,Thursday,13,-9946.24,10769.21,0.0,0.0,60,Medium,Reduce Restaurant Spending
+348,2,2026-09-03 18:35:00,Healthcare,Al-Dawaa,150.55,Credit Card,False,False,Mall,Autumn,,Thursday,18,-730.84,1553.81,0.0,0.0,60,Medium,Reduce Restaurant Spending
+346,2,2026-09-05 13:15:00,Transportation,Careem,18.73,Debit Card,False,True,Online,Autumn,,Saturday,13,-536.7,1359.67,0.0,0.0,60,Medium,Reduce Restaurant Spending
+412,2,2026-09-05 22:01:00,Coffee,Tim Hortons,14.21,Apple Pay,False,True,Online,Autumn,,Saturday,22,-11646.2,12469.17,0.0,0.0,60,Medium,Reduce Restaurant Spending
+326,2,2026-09-12 07:05:00,Healthcare,Al-Dawaa,70.1,Debit Card,True,True,Online,Autumn,,Saturday,7,752.87,70.1,929.9,0.232,100,Low,Maintain Current Habits
+414,2,2026-09-15 20:51:00,Healthcare,Nahdi,41.63,Cash,True,False,Mall,Autumn,,Tuesday,20,-11760.94,12583.91,0.0,0.0,60,Medium,Reduce Restaurant Spending
+415,2,2026-09-26 11:15:00,Restaurants,McDonald's,32.59,Credit Card,True,False,Restaurant,Autumn,,Saturday,11,-11793.53,12616.5,0.0,0.0,60,Medium,Reduce Restaurant Spending
+392,2,2026-09-26 17:44:00,Groceries,Danube,71.64,Credit Card,True,True,Online,Autumn,,Saturday,17,-7275.98,8098.95,0.0,0.0,60,Medium,Reduce Restaurant Spending
+345,2,2026-09-30 17:34:00,Transportation,Taxi,11.6,Credit Card,True,False,Supermarket,Autumn,,Wednesday,17,-517.97,1340.94,0.0,0.0,60,Medium,Reduce Restaurant Spending
+397,2,2026-10-02 13:03:00,Transportation,Taxi,16.54,STC Pay,True,False,Supermarket,Autumn,,Friday,13,-8047.78,8870.75,0.0,0.0,60,Medium,Reduce Restaurant Spending
+422,2,2026-10-06 08:11:00,Healthcare,Al-Dawaa,128.33,Cash,False,False,Campus,Autumn,,Tuesday,8,-12169.8,12992.77,0.0,0.0,60,Medium,Reduce Restaurant Spending
+407,2,2026-10-09 17:16:00,Education,Coursera,120.71,Apple Pay,False,False,Gas Station,Autumn,,Friday,17,-11444.04,12267.01,0.0,0.0,60,Medium,Reduce Restaurant Spending
+332,2,2026-10-13 18:48:00,Restaurants,McDonald's,41.38,STC Pay,True,True,Online,Autumn,,Tuesday,18,346.57,476.4,523.6,0.131,100,Low,Maintain Current Habits
+420,2,2026-10-17 10:57:00,Groceries,Panda,44.05,Debit Card,False,True,Online,Autumn,,Saturday,10,-12029.47,12852.44,0.0,0.0,60,Medium,Reduce Restaurant Spending
+417,2,2026-10-17 14:44:00,Restaurants,Burger King,40.64,Cash,True,False,Mall,Autumn,,Saturday,14,-11847.37,12670.34,0.0,0.0,60,Medium,Reduce Restaurant Spending
+362,2,2026-10-18 13:11:00,Shopping,Jarir Marketplace,80.0,Apple Pay,False,False,Supermarket,Autumn,,Sunday,13,-3085.2,3908.17,0.0,0.0,60,Medium,Reduce Restaurant Spending
+373,2,2026-10-21 11:10:00,Transportation,Taxi,11.49,Apple Pay,False,True,Online,Autumn,,Wednesday,11,-4017.74,4840.71,0.0,0.0,60,Medium,Reduce Restaurant Spending
+349,2,2026-10-21 19:57:00,Bills,Mobily,148.54,Debit Card,True,False,Restaurant,Autumn,,Wednesday,19,-879.38,1702.35,0.0,0.0,60,Medium,Reduce Restaurant Spending
+389,2,2026-10-23 17:15:00,Transportation,Uber,20.14,STC Pay,True,True,Online,Autumn,,Friday,17,-7084.27,7907.24,0.0,0.0,60,Medium,Reduce Restaurant Spending
+366,2,2026-10-26 07:16:00,Shopping,Noon,138.73,Cash,True,False,Mall,Autumn,,Monday,7,-3384.51,4207.48,0.0,0.0,60,Medium,Reduce Restaurant Spending
+338,2,2026-10-26 16:50:00,Electronics,Jarir,478.86,STC Pay,True,False,Gas Station,Autumn,,Monday,16,-274.94,1097.91,0.0,0.0,60,Medium,Reduce Restaurant Spending
+423,2,2026-10-28 11:48:00,Books,Amazon Books,63.3,Cash,True,False,Restaurant,Autumn,,Wednesday,11,-12233.1,13056.07,0.0,0.0,60,Medium,Reduce Restaurant Spending
+336,2,2026-10-31 17:32:00,Books,Amazon Books,55.91,STC Pay,False,True,Online,Autumn,,Saturday,17,218.08,604.89,395.11,0.099,92,Low,Maintain Current Habits
+335,2,2026-11-10 17:10:00,Transportation,Taxi,17.19,Credit Card,True,True,Online,Autumn,,Tuesday,17,273.99,548.98,451.02,0.113,100,Low,Maintain Current Habits
+391,2,2026-11-17 20:35:00,Groceries,Tamimi,75.76,Apple Pay,True,True,Online,Autumn,,Tuesday,20,-7204.34,8027.31,0.0,0.0,60,Medium,Reduce Restaurant Spending
+340,2,2026-11-19 19:09:00,Books,Jarir,52.77,Cash,False,False,Supermarket,Autumn,,Thursday,19,-340.79,1163.76,0.0,0.0,60,Medium,Reduce Restaurant Spending
+368,2,2026-11-24 16:23:00,Shopping,Noon,80.0,Debit Card,True,True,Online,Autumn,White Friday,Tuesday,16,-3520.66,4343.63,0.0,0.0,60,Medium,Reduce Restaurant Spending
+371,2,2026-12-15 09:33:00,Groceries,Tamimi,92.51,Cash,True,False,Supermarket,Winter,,Tuesday,9,-3906.39,4729.36,0.0,0.0,60,Medium,Reduce Restaurant Spending
+354,2,2026-12-15 11:00:00,Healthcare,Nahdi,132.14,Apple Pay,True,False,Gas Station,Winter,,Tuesday,11,-1112.09,1935.06,0.0,0.0,60,Medium,Reduce Restaurant Spending
+341,2,2026-12-25 10:12:00,Coffee,Dunkin,16.87,Apple Pay,True,True,Online,Winter,,Friday,10,-357.66,1180.63,0.0,0.0,60,Medium,Reduce Restaurant Spending
+419,2,2026-12-26 12:05:00,Groceries,Lulu,119.39,Credit Card,True,True,Online,Winter,,Saturday,12,-11985.42,12808.39,0.0,0.0,60,Medium,Reduce Restaurant Spending
+401,2,2026-12-27 13:25:00,Electronics,Amazon,870.92,Credit Card,False,True,Online,Winter,,Sunday,13,-10941.48,11764.45,0.0,0.0,60,Medium,Reduce Restaurant Spending
+1161,4,2026-01-10 22:48:00,Restaurants,Shawarmer,80.17,Cash,True,False,Mall,Winter,,Saturday,22,-2046.12,2875.92,0.0,0.0,60,Medium,Reduce Restaurant Spending
+1159,4,2026-01-15 10:14:00,Coffee,Barn's,14.4,Debit Card,True,False,Restaurant,Winter,,Thursday,10,-66.19,895.99,104.01,0.004,85,Low,Increase Monthly Savings
+1189,4,2026-01-17 12:35:00,Transportation,Careem,25.27,Debit Card,False,True,Online,Winter,,Saturday,12,-4500.02,5329.82,0.0,0.0,60,Medium,Reduce Restaurant Spending
+1227,4,2026-01-18 08:44:00,Education,University Bookstore,73.21,Debit Card,False,True,Online,Winter,,Sunday,8,-7317.68,8147.48,0.0,0.0,60,Medium,Reduce Restaurant Spending
+1232,4,2026-01-18 15:55:00,Coffee,Half Million,12.54,Apple Pay,False,False,Gas Station,Winter,,Sunday,15,-7493.86,8323.66,0.0,0.0,60,Medium,Reduce Restaurant Spending
+1163,4,2026-01-23 09:19:00,Transportation,Uber,17.31,Cash,True,False,Supermarket,Winter,,Friday,9,-2085.26,2915.06,0.0,0.0,60,Medium,Reduce Restaurant Spending
+1183,4,2026-01-28 09:31:00,Transportation,Uber,8.0,Apple Pay,True,False,Supermarket,Winter,,Wednesday,9,-4314.17,5143.97,0.0,0.0,60,Medium,Reduce Restaurant Spending
+1150,4,2026-01-28 15:23:00,Restaurants,Kudu,30.0,Cash,True,False,Restaurant,Winter,,Wednesday,15,502.1,327.7,672.3,0.027,100,Low,Maintain Current Habits
+1140,4,2026-02-03 19:05:00,Coffee,Dunkin,13.6,Apple Pay,False,True,Online,Winter,,Tuesday,19,802.51,27.29,972.71,0.039,100,Low,Maintain Current Habits
+1197,4,2026-02-13 09:55:00,Coffee,Dunkin,17.51,Debit Card,True,False,Mall,Winter,,Friday,9,-5923.01,6752.81,0.0,0.0,60,Medium,Reduce Restaurant Spending
+1240,4,2026-02-13 20:23:00,Coffee,Half Million,12.16,STC Pay,False,True,Online,Winter,,Friday,20,-8120.07,8949.87,0.0,0.0,60,Medium,Reduce Restaurant Spending
+1242,4,2026-02-15 21:12:00,Coffee,Barn's,17.62,Cash,False,True,Online,Winter,,Sunday,21,-8274.4,9104.2,0.0,0.0,60,Medium,Reduce Restaurant Spending
+1152,4,2026-02-18 12:34:00,Restaurants,Kudu,42.72,Credit Card,True,False,Restaurant,Winter,Ramadan,Wednesday,12,200.63,629.17,370.83,0.015,92,Low,Maintain Current Habits
+1171,4,2026-02-26 23:08:00,Transportation,Careem,8.29,Credit Card,False,True,Online,Winter,Ramadan,Thursday,23,-2265.08,3094.88,0.0,0.0,60,Medium,Reduce Restaurant Spending
+1160,4,2026-03-06 13:08:00,Electronics,Noon,1899.76,Cash,True,False,Mall,Spring,Ramadan,Friday,13,-1965.95,2795.75,0.0,0.0,60,Medium,Reduce Restaurant Spending
+1154,4,2026-03-12 23:18:00,Restaurants,Herfy,50.19,Apple Pay,True,True,Online,Spring,Ramadan,Thursday,23,142.44,687.36,312.64,0.013,92,Low,Maintain Current Habits
+1139,4,2026-03-13 09:09:00,Coffee,Half Million,13.69,STC Pay,True,False,Restaurant,Spring,Ramadan,Friday,9,816.11,13.69,986.31,0.039,100,Low,Maintain Current Habits
+1212,4,2026-03-19 16:54:00,Restaurants,Kudu,51.96,Cash,True,True,Online,Spring,Eid,Thursday,16,-6729.84,7559.64,0.0,0.0,60,Medium,Reduce Restaurant Spending
+1144,4,2026-03-20 15:19:00,Education,University Bookstore,50.0,Apple Pay,False,False,Mall,Spring,Eid,Friday,15,632.49,197.31,802.69,0.032,100,Low,Maintain Current Habits
+1231,4,2026-03-24 21:40:00,Restaurants,Burger King,43.51,Apple Pay,True,True,Online,Spring,Eid,Tuesday,21,-7481.32,8311.12,0.0,0.0,60,Medium,Reduce Restaurant Spending
+1141,4,2026-03-31 21:45:00,Transportation,Uber,17.73,Debit Card,True,True,Online,Spring,,Tuesday,21,784.78,45.02,954.98,0.038,100,Low,Maintain Current Habits
+1217,4,2026-04-01 08:46:00,Restaurants,AlBaik,53.23,Cash,True,False,Mall,Spring,,Wednesday,8,-6889.5,7719.3,0.0,0.0,60,Medium,Reduce Restaurant Spending
+1142,4,2026-04-06 19:18:00,Transportation,Uber,12.44,Credit Card,True,False,Supermarket,Spring,,Monday,19,772.34,57.46,942.54,0.038,100,Low,Maintain Current Habits
+1216,4,2026-04-14 12:17:00,Coffee,Dunkin,14.65,Credit Card,False,False,Supermarket,Spring,,Tuesday,12,-6836.27,7666.07,0.0,0.0,60,Medium,Reduce Restaurant Spending
+1164,4,2026-04-16 13:11:00,Transportation,Uber,8.0,Cash,False,False,Campus,Spring,,Thursday,13,-2093.26,2923.06,0.0,0.0,60,Medium,Reduce Restaurant Spending
+1206,4,2026-04-18 18:50:00,Coffee,Dunkin,19.74,STC Pay,True,True,Online,Spring,,Saturday,18,-6326.94,7156.74,0.0,0.0,60,Medium,Reduce Restaurant Spending
+1203,4,2026-04-20 16:16:00,Coffee,Tim Hortons,15.7,Apple Pay,False,True,Online,Spring,Midterms,Monday,16,-6201.94,7031.74,0.0,0.0,60,Medium,Reduce Restaurant Spending
+1168,4,2026-04-20 23:54:00,Transportation,Careem,8.0,STC Pay,True,False,Campus,Spring,Midterms,Monday,23,-2138.38,2968.18,0.0,0.0,60,Medium,Reduce Restaurant Spending
+1167,4,2026-04-22 13:18:00,Coffee,Tim Hortons,13.12,Cash,True,False,Mall,Spring,Midterms,Wednesday,13,-2130.38,2960.18,0.0,0.0,60,Medium,Reduce Restaurant Spending
+1241,4,2026-04-25 07:01:00,Education,University Bookstore,136.71,STC Pay,False,False,Campus,Spring,Midterms,Saturday,7,-8256.78,9086.58,0.0,0.0,60,Medium,Reduce Restaurant Spending
+1204,4,2026-04-26 09:45:00,Entertainment,VOX Cinema,75.26,STC Pay,False,True,Online,Spring,Midterms,Sunday,9,-6277.2,7107.0,0.0,0.0,60,Medium,Reduce Restaurant Spending
+1179,4,2026-04-30 20:46:00,Restaurants,Burger King,30.0,STC Pay,False,False,Supermarket,Spring,Midterms,Thursday,20,-4237.76,5067.56,0.0,0.0,60,Medium,Reduce Restaurant Spending
+1222,4,2026-05-01 20:13:00,Coffee,Barn's,12.79,Debit Card,True,True,Online,Spring,Midterms,Friday,20,-7031.77,7861.57,0.0,0.0,60,Medium,Reduce Restaurant Spending
+1166,4,2026-05-04 23:36:00,Coffee,Tim Hortons,12.0,Cash,False,False,Supermarket,Spring,Midterms,Monday,23,-2117.26,2947.06,0.0,0.0,60,Medium,Reduce Restaurant Spending
+1215,4,2026-05-06 16:29:00,Restaurants,Herfy,39.4,Apple Pay,True,False,Mall,Spring,,Wednesday,16,-6821.62,7651.42,0.0,0.0,60,Medium,Reduce Restaurant Spending
+1182,4,2026-05-09 22:31:00,Coffee,Barn's,12.0,Cash,False,False,Mall,Spring,,Saturday,22,-4306.17,5135.97,0.0,0.0,60,Medium,Reduce Restaurant Spending
+1208,4,2026-05-09 23:29:00,Transportation,Taxi,10.47,Debit Card,True,False,Mall,Spring,,Saturday,23,-6350.56,7180.36,0.0,0.0,60,Medium,Reduce Restaurant Spending
+1228,4,2026-05-10 19:19:00,Transportation,Taxi,8.0,Credit Card,True,False,Mall,Spring,,Sunday,19,-7325.68,8155.48,0.0,0.0,60,Medium,Reduce Restaurant Spending
+1239,4,2026-05-14 12:43:00,Transportation,Careem,8.0,Credit Card,True,False,Campus,Spring,,Thursday,12,-8107.91,8937.71,0.0,0.0,60,Medium,Reduce Restaurant Spending
+1180,4,2026-05-20 19:22:00,Restaurants,McDonald's,37.85,Apple Pay,False,True,Online,Spring,,Wednesday,19,-4275.61,5105.41,0.0,0.0,60,Medium,Reduce Restaurant Spending
+1223,4,2026-05-21 21:26:00,Coffee,Tim Hortons,12.0,Cash,True,False,Gas Station,Spring,,Thursday,21,-7043.77,7873.57,0.0,0.0,60,Medium,Reduce Restaurant Spending
+1146,4,2026-05-22 22:04:00,Transportation,Careem,26.43,STC Pay,False,True,Online,Spring,,Friday,22,589.92,239.88,760.12,0.03,100,Low,Maintain Current Habits
+1165,4,2026-05-23 18:22:00,Coffee,Tim Hortons,12.0,STC Pay,True,True,Online,Spring,,Saturday,18,-2105.26,2935.06,0.0,0.0,60,Medium,Reduce Restaurant Spending
+1151,4,2026-05-30 23:40:00,Education,University Bookstore,258.75,Debit Card,True,False,Campus,Spring,,Saturday,23,243.35,586.45,413.55,0.017,100,Low,Maintain Current Habits
+1186,4,2026-05-31 22:31:00,Restaurants,McDonald's,47.64,Credit Card,True,False,Supermarket,Spring,,Sunday,22,-4418.32,5248.12,0.0,0.0,60,Medium,Reduce Restaurant Spending
+1202,4,2026-06-03 18:27:00,Coffee,Starbucks,16.47,STC Pay,False,True,Online,Summer,,Wednesday,18,-6186.24,7016.04,0.0,0.0,60,Medium,Reduce Restaurant Spending
+1207,4,2026-06-03 20:42:00,Transportation,Uber,13.15,Apple Pay,False,False,Gas Station,Summer,,Wednesday,20,-6340.09,7169.89,0.0,0.0,60,Medium,Reduce Restaurant Spending
+1230,4,2026-06-04 09:59:00,Entertainment,AMC,82.13,Credit Card,False,False,Campus,Summer,,Thursday,9,-7437.81,8267.61,0.0,0.0,60,Medium,Reduce Restaurant Spending
+1143,4,2026-06-05 22:35:00,Groceries,Danube,89.85,Cash,True,False,Mall,Summer,Finals,Friday,22,682.49,147.31,852.69,0.034,100,Low,Maintain Current Habits
+1158,4,2026-06-09 18:08:00,Entertainment,Winter Wonderland,74.46,Debit Card,True,False,Restaurant,Summer,Finals,Tuesday,18,-51.79,881.59,118.41,0.005,85,Low,Increase Monthly Savings
+1218,4,2026-06-10 16:55:00,Coffee,Half Million,12.0,Credit Card,True,False,Mall,Summer,Finals,Wednesday,16,-6901.5,7731.3,0.0,0.0,60,Medium,Reduce Restaurant Spending
+1149,4,2026-06-13 21:56:00,Transportation,Careem,18.13,Debit Card,True,True,Online,Summer,Finals,Saturday,21,532.1,297.7,702.3,0.028,100,Low,Maintain Current Habits
+1235,4,2026-06-17 21:44:00,Coffee,Starbucks,12.0,Debit Card,True,False,Gas Station,Summer,Finals,Wednesday,21,-7703.71,8533.51,0.0,0.0,60,Medium,Reduce Restaurant Spending
+1233,4,2026-06-20 20:56:00,Education,Udemy,181.55,Debit Card,True,True,Online,Summer,Finals,Saturday,20,-7675.41,8505.21,0.0,0.0,60,Medium,Reduce Restaurant Spending
+1205,4,2026-06-22 15:04:00,Restaurants,McDonald's,30.0,Apple Pay,True,False,Gas Station,Summer,Finals,Monday,15,-6307.2,7137.0,0.0,0.0,60,Medium,Reduce Restaurant Spending
+1201,4,2026-06-22 22:32:00,Entertainment,Winter Wonderland,52.04,Debit Card,False,False,Supermarket,Summer,Finals,Monday,22,-6169.77,6999.57,0.0,0.0,60,Medium,Reduce Restaurant Spending
+1155,4,2026-06-24 12:06:00,Coffee,Tim Hortons,13.09,Debit Card,True,False,Campus,Summer,Finals,Wednesday,12,129.35,700.45,299.55,0.012,92,Low,Maintain Current Habits
+1196,4,2026-06-29 08:42:00,Coffee,Barn's,15.17,Credit Card,False,False,Supermarket,Summer,,Monday,8,-5905.5,6735.3,0.0,0.0,60,Medium,Reduce Restaurant Spending
+1226,4,2026-07-05 22:45:00,Restaurants,Kudu,61.53,Cash,True,False,Supermarket,Summer,Summer,Sunday,22,-7244.47,8074.27,0.0,0.0,60,Medium,Reduce Restaurant Spending
+1178,4,2026-07-06 13:21:00,Coffee,Half Million,14.83,Cash,False,True,Online,Summer,Summer,Monday,13,-4207.76,5037.56,0.0,0.0,60,Medium,Reduce Restaurant Spending
+1193,4,2026-07-13 18:49:00,Electronics,Amazon,1187.14,Cash,False,False,Mall,Summer,Summer,Monday,18,-5735.97,6565.77,0.0,0.0,60,Medium,Reduce Restaurant Spending
+1200,4,2026-07-13 19:20:00,Transportation,Careem,18.93,Cash,False,False,Campus,Summer,Summer,Monday,19,-6117.73,6947.53,0.0,0.0,60,Medium,Reduce Restaurant Spending
+1177,4,2026-07-22 19:44:00,Transportation,Uber,19.12,Debit Card,False,False,Mall,Summer,Summer,Wednesday,19,-4192.93,5022.73,0.0,0.0,60,Medium,Reduce Restaurant Spending
+1176,4,2026-07-22 21:33:00,Groceries,Panda,137.72,Cash,True,False,Campus,Summer,Summer,Wednesday,21,-4173.81,5003.61,0.0,0.0,60,Medium,Reduce Restaurant Spending
+1219,4,2026-07-23 11:15:00,Coffee,Tim Hortons,18.08,Cash,False,False,Supermarket,Summer,Summer,Thursday,11,-6919.58,7749.38,0.0,0.0,60,Medium,Reduce Restaurant Spending
+1243,4,2026-07-25 20:38:00,Coffee,Starbucks,19.72,Credit Card,False,False,Campus,Summer,Summer,Saturday,20,-8294.12,9123.92,0.0,0.0,60,Medium,Reduce Restaurant Spending
+1174,4,2026-07-28 16:54:00,Restaurants,AlBaik,69.9,Apple Pay,False,True,Online,Summer,Summer,Tuesday,16,-4020.77,4850.57,0.0,0.0,60,Medium,Reduce Restaurant Spending
+1199,4,2026-08-04 15:01:00,Groceries,Carrefour,107.65,Cash,False,False,Restaurant,Summer,Summer,Tuesday,15,-6098.8,6928.6,0.0,0.0,60,Medium,Reduce Restaurant Spending
+1225,4,2026-08-05 22:43:00,Coffee,Dunkin,25.69,Debit Card,False,True,Online,Summer,Summer,Wednesday,22,-7182.94,8012.74,0.0,0.0,60,Medium,Reduce Restaurant Spending
+1169,4,2026-08-14 10:11:00,Entertainment,Boulevard,96.0,Apple Pay,True,False,Campus,Summer,Summer,Friday,10,-2234.38,3064.18,0.0,0.0,60,Medium,Reduce Restaurant Spending
+1188,4,2026-08-19 17:54:00,Restaurants,Herfy,41.95,Cash,True,True,Online,Summer,Summer,Wednesday,17,-4474.75,5304.55,0.0,0.0,60,Medium,Reduce Restaurant Spending
+1173,4,2026-08-22 16:43:00,Electronics,Noon,1673.79,Debit Card,True,False,Supermarket,Summer,Summer,Saturday,16,-3950.87,4780.67,0.0,0.0,60,Medium,Reduce Restaurant Spending
+1157,4,2026-08-24 09:07:00,Entertainment,VOX Cinema,91.55,Apple Pay,False,False,Restaurant,Summer,Summer,Monday,9,22.67,807.13,192.87,0.008,85,Low,Increase Monthly Savings
+1192,4,2026-09-01 12:32:00,Coffee,Dunkin,16.8,Apple Pay,False,False,Supermarket,Autumn,,Tuesday,12,-4548.83,5378.63,0.0,0.0,60,Medium,Reduce Restaurant Spending
+1147,4,2026-09-04 20:55:00,Coffee,Half Million,15.79,Cash,True,False,Restaurant,Autumn,,Friday,20,574.13,255.67,744.33,0.03,100,Low,Maintain Current Habits
+1181,4,2026-09-06 23:17:00,Coffee,Half Million,18.56,Cash,True,False,Mall,Autumn,,Sunday,23,-4294.17,5123.97,0.0,0.0,60,Medium,Reduce Restaurant Spending
+1190,4,2026-09-09 20:08:00,Coffee,Half Million,16.3,Apple Pay,False,False,Mall,Autumn,,Wednesday,20,-4516.32,5346.12,0.0,0.0,60,Medium,Reduce Restaurant Spending
+1148,4,2026-09-20 07:54:00,Coffee,Tim Hortons,23.9,Cash,False,False,Campus,Autumn,National Day,Sunday,7,550.23,279.57,720.43,0.029,100,Low,Maintain Current Habits
+1170,4,2026-09-21 14:26:00,Coffee,Dunkin,22.41,Cash,False,False,Gas Station,Autumn,National Day,Monday,14,-2256.79,3086.59,0.0,0.0,60,Medium,Reduce Restaurant Spending
+1229,4,2026-10-01 14:54:00,Restaurants,AlBaik,30.0,Apple Pay,False,False,Restaurant,Autumn,,Thursday,14,-7355.68,8185.48,0.0,0.0,60,Medium,Reduce Restaurant Spending
+1224,4,2026-10-01 18:44:00,Education,Coursera,113.48,STC Pay,True,True,Online,Autumn,,Thursday,18,-7157.25,7987.05,0.0,0.0,60,Medium,Reduce Restaurant Spending
+1198,4,2026-10-03 17:02:00,Restaurants,Herfy,68.14,STC Pay,True,False,Supermarket,Autumn,,Saturday,17,-5991.15,6820.95,0.0,0.0,60,Medium,Reduce Restaurant Spending
+1187,4,2026-10-07 07:48:00,Coffee,Half Million,14.48,Cash,True,False,Gas Station,Autumn,,Wednesday,7,-4432.8,5262.6,0.0,0.0,60,Medium,Reduce Restaurant Spending
+1172,4,2026-10-13 08:05:00,Coffee,Starbucks,12.0,Apple Pay,True,False,Restaurant,Autumn,,Tuesday,8,-2277.08,3106.88,0.0,0.0,60,Medium,Reduce Restaurant Spending
+1156,4,2026-10-14 23:54:00,Transportation,Taxi,15.13,Cash,False,False,Gas Station,Autumn,,Wednesday,23,114.22,715.58,284.42,0.011,92,Low,Maintain Current Habits
+1211,4,2026-10-17 08:33:00,Coffee,Half Million,19.45,Debit Card,False,False,Campus,Autumn,,Saturday,8,-6677.88,7507.68,0.0,0.0,60,Medium,Reduce Restaurant Spending
+1244,4,2026-10-18 10:00:00,Groceries,Lulu,71.07,Apple Pay,False,True,Online,Autumn,,Sunday,10,-8365.19,9194.99,0.0,0.0,60,Medium,Reduce Restaurant Spending
+1191,4,2026-10-19 22:42:00,Transportation,Taxi,15.71,STC Pay,False,False,Gas Station,Autumn,,Monday,22,-4532.03,5361.83,0.0,0.0,60,Medium,Reduce Restaurant Spending
+1237,4,2026-10-22 09:07:00,Coffee,Tim Hortons,17.4,Debit Card,False,False,Supermarket,Autumn,,Thursday,9,-7799.8,8629.6,0.0,0.0,60,Medium,Reduce Restaurant Spending
+1194,4,2026-10-30 08:08:00,Entertainment,Winter Wonderland,136.06,STC Pay,True,False,Mall,Autumn,,Friday,8,-5872.03,6701.83,0.0,0.0,60,Medium,Reduce Restaurant Spending
+1221,4,2026-11-04 10:49:00,Entertainment,Winter Wonderland,63.56,STC Pay,True,False,Gas Station,Autumn,,Wednesday,10,-7018.98,7848.78,0.0,0.0,60,Medium,Reduce Restaurant Spending
+1195,4,2026-11-17 17:24:00,Coffee,Dunkin,18.3,Credit Card,True,False,Gas Station,Autumn,,Tuesday,17,-5890.33,6720.13,0.0,0.0,60,Medium,Reduce Restaurant Spending
+1209,4,2026-11-18 23:55:00,Coffee,Half Million,19.64,Debit Card,True,True,Online,Autumn,,Wednesday,23,-6370.2,7200.0,0.0,0.0,60,Medium,Reduce Restaurant Spending
+1213,4,2026-11-21 13:54:00,Restaurants,Kudu,30.0,Debit Card,True,False,Restaurant,Autumn,,Saturday,13,-6759.84,7589.64,0.0,0.0,60,Medium,Reduce Restaurant Spending
+1236,4,2026-11-25 11:00:00,Restaurants,Burger King,78.69,Credit Card,True,False,Restaurant,Autumn,White Friday,Wednesday,11,-7782.4,8612.2,0.0,0.0,60,Medium,Reduce Restaurant Spending
+1145,4,2026-12-01 16:26:00,Coffee,Barn's,16.14,Cash,False,False,Mall,Winter,,Tuesday,16,616.35,213.45,786.55,0.031,100,Low,Maintain Current Habits
+1162,4,2026-12-04 23:37:00,Coffee,Starbucks,21.83,Credit Card,True,True,Online,Winter,,Friday,23,-2067.95,2897.75,0.0,0.0,60,Medium,Reduce Restaurant Spending
+1210,4,2026-12-05 21:17:00,Education,University Bookstore,288.23,STC Pay,True,False,Gas Station,Winter,,Saturday,21,-6658.43,7488.23,0.0,0.0,60,Medium,Reduce Restaurant Spending
+1185,4,2026-12-05 23:49:00,Restaurants,Herfy,43.84,Debit Card,True,True,Online,Winter,,Saturday,23,-4370.68,5200.48,0.0,0.0,60,Medium,Reduce Restaurant Spending
+1220,4,2026-12-07 23:16:00,Restaurants,AlBaik,35.84,Debit Card,True,True,Online,Winter,,Monday,23,-6955.42,7785.22,0.0,0.0,60,Medium,Reduce Restaurant Spending
+1184,4,2026-12-14 17:09:00,Coffee,Tim Hortons,12.67,Cash,True,False,Mall,Winter,,Monday,17,-4326.84,5156.64,0.0,0.0,60,Medium,Reduce Restaurant Spending
+1175,4,2026-12-14 18:11:00,Coffee,Half Million,15.32,Cash,True,True,Online,Winter,,Monday,18,-4036.09,4865.89,0.0,0.0,60,Medium,Reduce Restaurant Spending
+1153,4,2026-12-17 18:06:00,Transportation,Careem,8.0,Debit Card,True,False,Mall,Winter,,Thursday,18,192.63,637.17,362.83,0.015,92,Low,Maintain Current Habits
+1214,4,2026-12-18 14:25:00,Coffee,Barn's,22.38,Debit Card,True,False,Mall,Winter,,Friday,14,-6782.22,7612.02,0.0,0.0,60,Medium,Reduce Restaurant Spending
+1238,4,2026-12-18 20:50:00,Education,Coursera,300.11,Apple Pay,True,False,Campus,Winter,,Friday,20,-8099.91,8929.71,0.0,0.0,60,Medium,Reduce Restaurant Spending
+1234,4,2026-12-24 15:32:00,Coffee,Half Million,16.3,STC Pay,False,False,Supermarket,Winter,,Thursday,15,-7691.71,8521.51,0.0,0.0,60,Medium,Reduce Restaurant Spending
+5393,5,2026-01-05 17:54:00,Restaurants,McDonald's,65.8,Debit Card,False,True,Online,Winter,,Monday,17,-46057.94,47806.35,0.0,0.0,60,Medium,Reduce Restaurant Spending
+5359,5,2026-01-11 23:28:00,Shopping,Amazon,600.0,Apple Pay,False,False,Mall,Winter,,Sunday,23,-22868.52,24616.93,0.0,0.0,60,Medium,Reduce Restaurant Spending
+5413,5,2026-01-16 17:14:00,Shopping,Amazon,171.31,Debit Card,False,False,Campus,Winter,,Friday,17,-54871.08,56619.49,0.0,0.0,60,Medium,Reduce Restaurant Spending
+5369,5,2026-01-17 09:00:00,Beauty,Sephora,299.23,STC Pay,False,False,Gas Station,Winter,,Saturday,9,-29761.51,31509.92,0.0,0.0,60,Medium,Reduce Restaurant Spending
+5381,5,2026-01-18 23:03:00,Shopping,Centrepoint,600.0,STC Pay,True,True,Online,Winter,,Sunday,23,-36687.67,38436.08,0.0,0.0,60,Medium,Reduce Restaurant Spending
+5391,5,2026-01-21 11:09:00,Entertainment,Boulevard,110.27,Credit Card,True,True,Online,Winter,,Wednesday,11,-45573.0,47321.41,0.0,0.0,60,Medium,Reduce Restaurant Spending
+5366,5,2026-01-27 10:31:00,Electronics,Amazon,1096.51,Cash,False,True,Online,Winter,,Tuesday,10,-29291.15,31039.56,0.0,0.0,60,Medium,Reduce Restaurant Spending
+5373,5,2026-01-29 16:05:00,Electronics,Jarir,1452.63,Credit Card,False,True,Online,Winter,,Thursday,16,-32389.66,34138.07,0.0,0.0,60,Medium,Reduce Restaurant Spending
+5404,5,2026-02-05 14:17:00,Shopping,Noon,230.16,STC Pay,False,True,Online,Winter,,Thursday,14,-48764.35,50512.76,0.0,0.0,60,Medium,Reduce Restaurant Spending
+5338,5,2026-02-10 12:26:00,Beauty,Sephora,220.38,Credit Card,False,True,Online,Winter,,Tuesday,12,1528.03,220.38,1779.62,0.395,100,Low,Maintain Current Habits
+5399,5,2026-02-11 15:27:00,Shopping,Noon,272.6,Apple Pay,False,True,Online,Winter,,Wednesday,15,-47511.49,49259.9,0.0,0.0,60,Medium,Reduce Restaurant Spending
+5347,5,2026-02-14 11:57:00,Entertainment,Boulevard,250.0,Debit Card,False,True,Online,Winter,,Saturday,11,-11839.86,13588.27,0.0,0.0,60,Medium,Reduce Restaurant Spending
+5395,5,2026-02-22 11:04:00,Clothing,H&M,653.86,Apple Pay,False,True,Online,Winter,Ramadan,Sunday,11,-47089.31,48837.72,0.0,0.0,60,Medium,Reduce Restaurant Spending
+5361,5,2026-02-22 18:10:00,Shopping,Jarir Marketplace,327.12,Cash,False,False,Mall,Winter,Ramadan,Sunday,18,-23362.28,25110.69,0.0,0.0,60,Medium,Reduce Restaurant Spending
+5408,5,2026-02-26 11:53:00,Restaurants,McDonald's,65.53,Credit Card,False,True,Online,Winter,Ramadan,Thursday,11,-49386.76,51135.17,0.0,0.0,60,Medium,Reduce Restaurant Spending
+5389,5,2026-03-02 23:42:00,Shopping,Jarir Marketplace,545.66,Debit Card,False,True,Online,Spring,Ramadan,Monday,23,-43295.98,45044.39,0.0,0.0,60,Medium,Reduce Restaurant Spending
+5349,5,2026-03-11 23:50:00,Beauty,Nice One,254.05,Cash,False,True,Online,Spring,Ramadan,Wednesday,23,-12145.93,13894.34,0.0,0.0,60,Medium,Reduce Restaurant Spending
+5342,5,2026-03-21 15:58:00,Clothing,H&M,626.06,Debit Card,False,True,Online,Spring,Eid,Saturday,15,-3512.27,5260.68,0.0,0.0,60,Medium,Reduce Restaurant Spending
+5392,5,2026-03-21 18:39:00,Beauty,Nice One,419.14,Debit Card,False,True,Online,Spring,Eid,Saturday,18,-45992.14,47740.55,0.0,0.0,60,Medium,Reduce Restaurant Spending
+5356,5,2026-03-31 15:08:00,Electronics,Amazon,731.23,Debit Card,False,False,Restaurant,Spring,,Tuesday,15,-19796.9,21545.31,0.0,0.0,60,Medium,Reduce Restaurant Spending
+5367,5,2026-04-01 07:23:00,Shopping,Centrepoint,139.13,Credit Card,False,False,Supermarket,Spring,,Wednesday,7,-29430.28,31178.69,0.0,0.0,60,Medium,Reduce Restaurant Spending
+5401,5,2026-04-03 20:28:00,Clothing,H&M,700.0,STC Pay,False,True,Online,Spring,,Friday,20,-48291.45,50039.86,0.0,0.0,60,Medium,Reduce Restaurant Spending
+5384,5,2026-04-04 15:23:00,Coffee,Dunkin,32.0,Debit Card,False,True,Online,Spring,,Saturday,15,-36993.6,38742.01,0.0,0.0,60,Medium,Reduce Restaurant Spending
+5375,5,2026-04-07 14:29:00,Travel,Booking,568.6,Debit Card,False,False,Gas Station,Spring,,Tuesday,14,-33323.52,35071.93,0.0,0.0,60,Medium,Reduce Restaurant Spending
+5353,5,2026-04-14 09:44:00,Clothing,Namshi,204.82,Apple Pay,False,True,Online,Spring,,Tuesday,9,-14991.47,16739.88,0.0,0.0,60,Medium,Reduce Restaurant Spending
+5407,5,2026-04-17 15:24:00,Clothing,Namshi,60.0,STC Pay,False,False,Mall,Spring,,Friday,15,-49321.23,51069.64,0.0,0.0,60,Medium,Reduce Restaurant Spending
+5374,5,2026-04-19 21:18:00,Shopping,Centrepoint,365.26,Cash,False,True,Online,Spring,,Sunday,21,-32754.92,34503.33,0.0,0.0,60,Medium,Reduce Restaurant Spending
+5388,5,2026-04-24 12:04:00,Restaurants,McDonald's,70.03,Apple Pay,False,True,Online,Spring,Midterms,Friday,12,-42750.32,44498.73,0.0,0.0,60,Medium,Reduce Restaurant Spending
+5372,5,2026-05-11 12:22:00,Shopping,Centrepoint,233.5,Debit Card,False,True,Online,Spring,,Monday,12,-30937.03,32685.44,0.0,0.0,60,Medium,Reduce Restaurant Spending
+5383,5,2026-05-11 15:21:00,Shopping,Jarir Marketplace,80.0,Debit Card,True,True,Online,Spring,,Monday,15,-36961.6,38710.01,0.0,0.0,60,Medium,Reduce Restaurant Spending
+5339,5,2026-05-13 20:45:00,Electronics,Amazon,4000.0,Debit Card,False,True,Online,Spring,,Wednesday,20,-2471.97,4220.38,0.0,0.0,60,Medium,Reduce Restaurant Spending
+5340,5,2026-05-19 22:26:00,Shopping,Jarir Marketplace,382.24,Cash,False,True,Online,Spring,,Tuesday,22,-2854.21,4602.62,0.0,0.0,60,Medium,Reduce Restaurant Spending
+5409,5,2026-05-31 22:38:00,Restaurants,Burger King,140.0,Credit Card,False,True,Online,Spring,,Sunday,22,-49526.76,51275.17,0.0,0.0,60,Medium,Reduce Restaurant Spending
+5397,5,2026-06-06 19:00:00,Restaurants,McDonald's,30.0,Debit Card,False,True,Online,Summer,Finals,Saturday,19,-47146.46,48894.87,0.0,0.0,60,Medium,Reduce Restaurant Spending
+5346,5,2026-06-12 22:29:00,Electronics,Jarir,2765.68,Apple Pay,False,True,Online,Summer,Finals,Friday,22,-11589.86,13338.27,0.0,0.0,60,Medium,Reduce Restaurant Spending
+5365,5,2026-06-17 09:05:00,Shopping,Amazon,225.63,Cash,False,False,Gas Station,Summer,Finals,Wednesday,9,-28194.64,29943.05,0.0,0.0,60,Medium,Reduce Restaurant Spending
+5403,5,2026-06-19 16:17:00,Restaurants,Kudu,82.6,Apple Pay,False,False,Restaurant,Summer,Finals,Friday,16,-48534.19,50282.6,0.0,0.0,60,Medium,Reduce Restaurant Spending
+5352,5,2026-06-21 19:46:00,Coffee,Tim Hortons,17.65,STC Pay,False,False,Mall,Summer,Finals,Sunday,19,-14786.65,16535.06,0.0,0.0,60,Medium,Reduce Restaurant Spending
+5400,5,2026-06-22 08:51:00,Restaurants,Shawarmer,79.96,STC Pay,False,True,Online,Summer,Finals,Monday,8,-47591.45,49339.86,0.0,0.0,60,Medium,Reduce Restaurant Spending
+5351,5,2026-06-24 13:55:00,Electronics,Noon,2224.52,Cash,False,True,Online,Summer,Finals,Wednesday,13,-14769.0,16517.41,0.0,0.0,60,Medium,Reduce Restaurant Spending
+5417,5,2026-06-30 20:12:00,Clothing,Zara,257.43,Debit Card,False,True,Online,Summer,,Tuesday,20,-56069.07,57817.48,0.0,0.0,60,Medium,Reduce Restaurant Spending
+5343,5,2026-07-05 21:13:00,Electronics,Noon,2614.34,Credit Card,False,True,Online,Summer,Summer,Sunday,21,-6126.61,7875.02,0.0,0.0,60,Medium,Reduce Restaurant Spending
+5370,5,2026-07-06 22:17:00,Entertainment,Winter Wonderland,242.02,Debit Card,False,False,Supermarket,Summer,Summer,Monday,22,-30003.53,31751.94,0.0,0.0,60,Medium,Reduce Restaurant Spending
+5354,5,2026-07-13 16:30:00,Travel,Booking,1727.02,Credit Card,False,True,Online,Summer,Summer,Monday,16,-16718.49,18466.9,0.0,0.0,60,Medium,Reduce Restaurant Spending
+5382,5,2026-07-25 12:18:00,Entertainment,Winter Wonderland,193.93,Apple Pay,True,True,Online,Summer,Summer,Saturday,12,-36881.6,38630.01,0.0,0.0,60,Medium,Reduce Restaurant Spending
+5410,5,2026-07-28 10:58:00,Travel,Saudia,1895.04,Apple Pay,True,True,Online,Summer,Summer,Tuesday,10,-51421.8,53170.21,0.0,0.0,60,Medium,Reduce Restaurant Spending
+5387,5,2026-07-30 20:57:00,Electronics,Amazon,3154.69,STC Pay,False,True,Online,Summer,Summer,Thursday,20,-42680.29,44428.7,0.0,0.0,60,Medium,Reduce Restaurant Spending
+5371,5,2026-08-05 17:38:00,Clothing,H&M,700.0,Credit Card,False,True,Online,Summer,Summer,Wednesday,17,-30703.53,32451.94,0.0,0.0,60,Medium,Reduce Restaurant Spending
+5376,5,2026-08-05 19:47:00,Entertainment,Boulevard,117.99,Apple Pay,False,True,Online,Summer,Summer,Wednesday,19,-33441.51,35189.92,0.0,0.0,60,Medium,Reduce Restaurant Spending
+5385,5,2026-08-14 10:06:00,Travel,Flynas,2500.0,Cash,False,True,Online,Summer,Summer,Friday,10,-39493.6,41242.01,0.0,0.0,60,Medium,Reduce Restaurant Spending
+5345,5,2026-08-15 07:51:00,Entertainment,Winter Wonderland,197.57,Apple Pay,True,True,Online,Summer,Summer,Saturday,7,-8824.18,10572.59,0.0,0.0,60,Medium,Reduce Restaurant Spending
+5414,5,2026-08-19 16:15:00,Restaurants,Shawarmer,109.13,Apple Pay,False,True,Online,Summer,Summer,Wednesday,16,-54980.21,56728.62,0.0,0.0,60,Medium,Reduce Restaurant Spending
+5398,5,2026-08-22 10:30:00,Entertainment,Winter Wonderland,92.43,Apple Pay,False,False,Campus,Summer,Summer,Saturday,10,-47238.89,48987.3,0.0,0.0,60,Medium,Reduce Restaurant Spending
+5412,5,2026-08-27 07:42:00,Electronics,Amazon,3193.03,STC Pay,False,True,Online,Summer,Summer,Thursday,7,-54699.77,56448.18,0.0,0.0,60,Medium,Reduce Restaurant Spending
+5344,5,2026-08-29 22:35:00,Travel,Saudia,2500.0,Cash,False,True,Online,Summer,Summer,Saturday,22,-8626.61,10375.02,0.0,0.0,60,Medium,Reduce Restaurant Spending
+5362,5,2026-08-30 16:03:00,Restaurants,Shawarmer,63.74,Apple Pay,False,True,Online,Summer,Summer,Sunday,16,-23426.02,25174.43,0.0,0.0,60,Medium,Reduce Restaurant Spending
+5368,5,2026-08-31 12:43:00,Coffee,Barn's,32.0,STC Pay,False,False,Campus,Summer,Summer,Monday,12,-29462.28,31210.69,0.0,0.0,60,Medium,Reduce Restaurant Spending
+5402,5,2026-09-15 23:41:00,Entertainment,Boulevard,160.14,Apple Pay,False,True,Online,Autumn,,Tuesday,23,-48451.59,50200.0,0.0,0.0,60,Medium,Reduce Restaurant Spending
+5380,5,2026-09-22 23:05:00,Restaurants,McDonald's,140.0,STC Pay,False,True,Online,Autumn,National Day,Tuesday,23,-36087.67,37836.08,0.0,0.0,60,Medium,Reduce Restaurant Spending
+5378,5,2026-09-29 17:21:00,Electronics,Jarir,2347.36,Apple Pay,False,False,Restaurant,Autumn,,Tuesday,17,-35863.92,37612.33,0.0,0.0,60,Medium,Reduce Restaurant Spending
+5377,5,2026-10-01 10:47:00,Entertainment,Boulevard,75.05,Cash,False,True,Online,Autumn,,Thursday,10,-33516.56,35264.97,0.0,0.0,60,Medium,Reduce Restaurant Spending
+5416,5,2026-10-02 20:40:00,Entertainment,Winter Wonderland,250.0,Credit Card,False,False,Gas Station,Autumn,,Friday,20,-55811.64,57560.05,0.0,0.0,60,Medium,Reduce Restaurant Spending
+5348,5,2026-10-07 16:09:00,Restaurants,AlBaik,52.02,STC Pay,False,True,Online,Autumn,,Wednesday,16,-11891.88,13640.29,0.0,0.0,60,Medium,Reduce Restaurant Spending
+5363,5,2026-10-08 18:46:00,Electronics,Noon,2217.0,Apple Pay,False,True,Online,Autumn,,Thursday,18,-25643.02,27391.43,0.0,0.0,60,Medium,Reduce Restaurant Spending
+5411,5,2026-10-11 19:08:00,Entertainment,AMC,84.94,Cash,False,True,Online,Autumn,,Sunday,19,-51506.74,53255.15,0.0,0.0,60,Medium,Reduce Restaurant Spending
+5394,5,2026-10-22 23:55:00,Clothing,H&M,377.51,STC Pay,False,True,Online,Autumn,,Thursday,23,-46435.45,48183.86,0.0,0.0,60,Medium,Reduce Restaurant Spending
+5358,5,2026-10-23 09:39:00,Electronics,Amazon,2164.81,STC Pay,False,True,Online,Autumn,,Friday,9,-22268.52,24016.93,0.0,0.0,60,Medium,Reduce Restaurant Spending
+5379,5,2026-11-03 08:51:00,Restaurants,Kudu,83.75,STC Pay,False,False,Gas Station,Autumn,,Tuesday,8,-35947.67,37696.08,0.0,0.0,60,Medium,Reduce Restaurant Spending
+5406,5,2026-11-05 20:11:00,Entertainment,Winter Wonderland,178.65,Cash,True,False,Supermarket,Autumn,,Thursday,20,-49261.23,51009.64,0.0,0.0,60,Medium,Reduce Restaurant Spending
+5418,5,2026-11-17 09:13:00,Electronics,Jarir,1365.73,Apple Pay,True,True,Online,Autumn,,Tuesday,9,-57434.8,59183.21,0.0,0.0,60,Medium,Reduce Restaurant Spending
+5355,5,2026-11-22 09:09:00,Electronics,Extra,2347.18,Cash,False,True,Online,Autumn,,Sunday,9,-19065.67,20814.08,0.0,0.0,60,Medium,Reduce Restaurant Spending
+5341,5,2026-11-28 20:56:00,Coffee,Dunkin,32.0,Apple Pay,True,True,Online,Autumn,White Friday,Saturday,20,-2886.21,4634.62,0.0,0.0,60,Medium,Reduce Restaurant Spending
+5390,5,2026-11-30 15:44:00,Travel,Booking,2166.75,Cash,True,True,Online,Autumn,White Friday,Monday,15,-45462.73,47211.14,0.0,0.0,60,Medium,Reduce Restaurant Spending
+5357,5,2026-12-11 15:05:00,Clothing,Zara,306.81,Cash,False,True,Online,Winter,,Friday,15,-20103.71,21852.12,0.0,0.0,60,Medium,Reduce Restaurant Spending
+5415,5,2026-12-12 12:51:00,Clothing,Namshi,581.43,Apple Pay,False,False,Mall,Winter,,Saturday,12,-55561.64,57310.05,0.0,0.0,60,Medium,Reduce Restaurant Spending
+5396,5,2026-12-16 15:38:00,Entertainment,Winter Wonderland,27.15,Apple Pay,True,True,Online,Winter,,Wednesday,15,-47116.46,48864.87,0.0,0.0,60,Medium,Reduce Restaurant Spending
+5405,5,2026-12-21 13:26:00,Beauty,Sephora,318.23,Credit Card,False,True,Online,Winter,,Monday,13,-49082.58,50830.99,0.0,0.0,60,Medium,Reduce Restaurant Spending
+5360,5,2026-12-21 23:49:00,Entertainment,Boulevard,166.64,Apple Pay,True,True,Online,Winter,,Monday,23,-23035.16,24783.57,0.0,0.0,60,Medium,Reduce Restaurant Spending
+5364,5,2026-12-25 11:41:00,Travel,Saudia,2325.99,Cash,False,False,Mall,Winter,,Friday,11,-27969.01,29717.42,0.0,0.0,60,Medium,Reduce Restaurant Spending
+5386,5,2026-12-25 23:23:00,Coffee,Starbucks,32.0,STC Pay,False,False,Restaurant,Winter,,Friday,23,-39525.6,41274.01,0.0,0.0,60,Medium,Reduce Restaurant Spending
+5350,5,2026-12-29 19:16:00,Shopping,Amazon,398.55,Cash,False,True,Online,Winter,,Tuesday,19,-12544.48,14292.89,0.0,0.0,60,Medium,Reduce Restaurant Spending

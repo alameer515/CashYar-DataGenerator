@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/
+dataset_report.txt
+extracted_blocks/
