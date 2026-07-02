@@ -1,6 +1,0 @@
-financial_personality,user_id,uuid,age,gender,city,university,major,study_year,living_status,scholarship,part_time_income,other_income,total_income,monthly_budget,financial_goal,goal_amount,target_months
-Disciplined,1,5cda57c6-9233-47e2-8cc7-9c3482b8bd03,22,Male,Dammam,Qassim University,Business Administration,3,With Family,1000,800,0,1800,1694.6,Emergency Fund,6000,9
-Balanced,2,74c2854b-fae4-4078-9165-632f7a79ca84,19,Male,Jeddah,Qassim University,Artificial Intelligence,4,Dorm,1000,0,0,1000,822.97,Travel,4000,9
-Shopaholic,3,d1873577-4559-403e-8be7-e39a48cb9a55,20,Male,Jeddah,King Khalid University,Accounting,1,With Family,1000,0,0,1000,793.73,Phone,4500,3
-Coffee Lover,4,7fa1ff26-8b6f-4a03-b566-f0b3e5f3b50c,20,Female,Tabuk,Imam Mohammad Ibn Saud Islamic University,Medicine,2,Dorm,1000,0,0,1000,829.8,Car,25000,9
-Overspender,5,7ae65109-51c1-4dd7-ae50-546d736e7f56,24,Female,Qassim,Prince Sattam bin Abdulaziz University,Nursing,4,With Family,1000,800,200,2000,1748.41,Phone,4500,3
