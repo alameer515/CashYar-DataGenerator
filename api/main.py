@@ -5,10 +5,10 @@ import pandas as pd
 from pathlib import Path
 import sys
 
-sys.path.append(str(Path(__file__).resolve().parents[1] / "models" / "src"))
+sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "models" / "src"))
 
 from predict import CashYarPredictor
-from clustring import predict_cluster   # rename file to clustering.py later
+from clustering import predict_cluster
 from simulator import CashYarSimulator
 
 app = FastAPI(title="CashYar AI API")
